@@ -29,23 +29,27 @@ function* fetchData() {
 
   const json: SportsData[] = yield response.json()
 
-  const data: Record<string, Competition> = json.reduce<Record<string, Competition>>(
-    (result, {id, ...rest}) => {
-      result[id] = rest
-      return result
-    },
-    {},
-  )
+  const data: Record<string, Competition> = json.reduce<
+    Record<string, Competition>
+  >((result, { id, sport, competitors }) => {
+    result[id] = {
+      sport,
+      competitors: competitors.reduce<Record<string, number>>(
+        (result, { name, bets }) => {
+          result[name] = bets
+          return result
+        },
+        {},
+      ),
+    }
+    return result
+  }, {})
 
-  yield put(
-    fill(data),
-  )
+  yield put(fill(data))
 }
 
 function* data() {
-  yield all([
-    takeEvery(ActionTypes.FETCH, fetchData)
-  ])
+  yield all([takeEvery(ActionTypes.FETCH, fetchData)])
 }
 
 export default data

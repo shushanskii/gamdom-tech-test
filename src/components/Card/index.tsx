@@ -12,10 +12,7 @@ import { Bets, Competitor, Container, Numbers, Title } from './styled'
 interface Props {
   id: string
   sport: string
-  competitors: {
-    name: string
-    bets: number
-  }[]
+  competitors: Record<string, number>
 }
 
 function Card({ id, sport, competitors }: Props) {
@@ -25,17 +22,21 @@ function Card({ id, sport, competitors }: Props) {
     dispatch(Actions.modalOpen(id))
   }
 
+  const sum = Object.values(competitors).reduce<number>((result, bets) => {
+    result += bets
+    return result
+  }, 0)
+
   return (
     <Container>
       <Title>{sport}</Title>
-      <Competitor>
-        {competitors[0].name} - {competitors[0].bets}
-      </Competitor>
-      <Competitor>
-        {competitors[1].name}- {competitors[1].bets}
-      </Competitor>
+      {Object.entries(competitors).map(([name, bets], index) => (
+        <Competitor key={`${name}-${id}-${index}-competitor`}>
+          {name} - {bets}
+        </Competitor>
+      ))}
       <Bets>
-        <Numbers>{competitors[0].bets + competitors[1].bets}</Numbers>
+        <Numbers>{sum}</Numbers>
         <Button caption={'Bet'} onClick={handleClick} />
       </Bets>
     </Container>
