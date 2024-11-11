@@ -1,4 +1,12 @@
 import styled, { css } from 'styled-components'
+import { colors, spacing } from 'styles'
+
+export const Container = styled.label`
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+`
 
 export const Input = styled.input`
     clip: rect(0 0 0 0);
@@ -11,15 +19,19 @@ export const Input = styled.input`
 `
 
 export const Box = styled.span<{ $checked: boolean }>`
-    display: inline-block;
-    height: 20px;
-    width: 20px;
-    background: #fff;
-    border: 2px #ddd solid;
-    margin-right: 4px;
+    display: flex;
+    width: 16px;
+    height: 16px;
+    padding: ${spacing['2/5']};
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: ${spacing['2/5']};
+    margin-right: ${spacing['2/5']};
+    border: 1px solid ${colors.primary[700]};
+    border-radius: 4px;
     
     ${({ $checked }) => $checked && css`
-        border-color: purple;
-        background: purple;
+        background: ${colors.primary[700]};
     `}
 `

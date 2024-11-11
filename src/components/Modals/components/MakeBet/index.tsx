@@ -13,7 +13,7 @@ import Checkbox from 'components/Checkbox'
 import Button from 'components/Button'
 
 // Styled
-import { Bottom, Container, Title } from './styled'
+import { Bottom, CompetitionName, Container, Title, Wrapper } from './styled'
 
 function MakeBet(
   props: DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement>,
@@ -30,24 +30,30 @@ function MakeBet(
   const handleChange = (competitor: string) => setCompetitor(competitor)
 
   const handleClick = (id: string, name: string) => () =>
-    dispatch(Actions.makeBet(id , name))
+    dispatch(Actions.makeBet(id, name))
 
   const { competitors, sport } = competition
 
   return (
     <Container {...props}>
       <Title>Make bet!</Title>
-      <div>{sport}</div>
-      {Object.entries(competitors).map(([name], index) => (
-        <Checkbox
-          key={`${index}-${name}-modal`}
-          label={name}
-          checked={name === competitor}
-          onChange={handleChange}
-        />
-      ))}
+      <Wrapper>
+        <CompetitionName>{sport}</CompetitionName>
+        {Object.entries(competitors).map(([name], index) => (
+          <Checkbox
+            key={`${index}-${name}-modal`}
+            label={name}
+            checked={name === competitor}
+            onChange={handleChange}
+          />
+        ))}
+      </Wrapper>
       <Bottom>
-        <Button caption={'Bet!'} onClick={handleClick(id, competitor as string)} />
+        <Button
+          disabled={!competitor}
+          caption={'Bet!'}
+          onClick={handleClick(id, competitor as string)}
+        />
       </Bottom>
     </Container>
   )

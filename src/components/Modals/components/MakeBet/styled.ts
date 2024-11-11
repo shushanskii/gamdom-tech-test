@@ -23,6 +23,19 @@ export const Title = styled.div`
     ${font(FontSize.lg, FontWeight.semibold, LineHeight.leadingTight)}
 `
 
+export const Wrapper = styled.div`
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: ${spacing['6']};
+    gap: ${spacing['6']};
+`
+
+export const CompetitionName = styled.div`
+    ${font(FontSize.base, FontWeight.semibold, LineHeight.leadingTight)}
+`
+
 export const Bottom = styled.div`
     display: flex;
     padding: ${spacing['6']};

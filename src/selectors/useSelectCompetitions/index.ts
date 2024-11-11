@@ -11,6 +11,7 @@ function useSelectCompetitions() {
     const filter = state.app.filter
 
     const competitions = state.data.competitions
+
     if (!filter) {
       return competitions
     }

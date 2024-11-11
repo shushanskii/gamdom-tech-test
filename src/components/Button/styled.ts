@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled, { css } from 'styled-components'
 import {
   colors,
   font,
@@ -9,7 +9,7 @@ import {
   spacing,
 } from 'styles'
 
-export const Container = styled.div`
+export const Container = styled.div<{ $disabled?: boolean }>`
     display: inline-flex;
     padding: ${spacing['3/5']} ${spacing['6']};
     justify-content: center;
@@ -20,4 +20,10 @@ export const Container = styled.div`
     color: ${colors.white};
     cursor: pointer;
     ${font(FontSize.base, FontWeight.medium, LineHeight.leadingTight)}
+    
+    ${({ $disabled }) => $disabled && css`
+        pointer-events: none;
+        color: ${colors.gray[800]};
+        background: ${colors.gray[200]};
+    `}
 `

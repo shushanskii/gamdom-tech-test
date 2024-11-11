@@ -1,5 +1,5 @@
 // Styled
-import { Box, Input } from './styled'
+import { Box, Container, Input } from './styled'
 
 interface Props {
   label: string
@@ -9,11 +9,11 @@ interface Props {
 
 function Checkbox({ label, checked, onChange }: Props) {
   return (
-    <label>
+    <Container>
       <Input type={'checkbox'} onChange={() => onChange(label)} />
       <Box $checked={checked} aria-hidden={'true'} />
       {label}
-    </label>
+    </Container>
   )
 }
 
