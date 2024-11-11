@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "7f192179-876f-4c38-9f27-3c9e442ff9ef",
+        "sport": "Formula 1",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor J",
+        "bets": 242
+    },
+    {
+        "id": "d0ed990d-384a-4cf5-883c-3ff86c39ad74",
+        "sport": "Basketball",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 117
+    },
+    {
+        "id": "c30f5cab-479b-491c-935f-bdec0192b9ea",
+        "sport": "Golf",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor I",
+        "bets": 46
+    },
+    {
+        "id": "e03c7835-ba7e-40cf-9917-408431e268b9",
+        "sport": "Skiing",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor J",
+        "bets": 167
+    },
+    {
+        "id": "23ddaf0d-57cb-4ce5-b79e-758a0e709424",
+        "sport": "Cricket",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor J",
+        "bets": 53
+    },
+    {
+        "id": "12b0e7d4-6abd-4743-b31b-9662a4d1203f",
+        "sport": "Volleyball",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor I",
+        "bets": 245
+    },
+    {
+        "id": "579fb147-a9c0-48a0-8c72-ece1808025d4",
+        "sport": "Tennis",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor H",
+        "bets": 119
+    },
+    {
+        "id": "dee59629-3390-437e-bed2-188a8fbb795e",
+        "sport": "Badminton",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor J",
+        "bets": 211
+    },
+    {
+        "id": "953719fe-44bf-4f95-ac50-0c67acfd8913",
+        "sport": "Formula 1",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor G",
+        "bets": 272
+    },
+    {
+        "id": "4d8dd21c-7f37-4779-bd4b-8a41f17e5af5",
+        "sport": "Volleyball",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor G",
+        "bets": 108
+    },
+    {
+        "id": "33d4307c-32d7-4f58-9535-849c3bdb22c4",
+        "sport": "MMA",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor I",
+        "bets": 267
+    },
+    {
+        "id": "88d6b35b-73e4-4c97-b605-5d8d0213f123",
+        "sport": "Baseball",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor I",
+        "bets": 251
+    },
+    {
+        "id": "6c5ad57a-ab52-4989-9c90-12995df3181e",
+        "sport": "Hockey",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 276
+    },
+    {
+        "id": "acef491a-2ac5-4b8c-ac06-105057bf65e2",
+        "sport": "Cricket",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 170
+    },
+    {
+        "id": "2398146e-0acc-49a3-b876-6acb962f7c04",
+        "sport": "Soccer",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor I",
+        "bets": 171
+    },
+    {
+        "id": "f6c71593-8170-4348-a7f5-e5611e70bb72",
+        "sport": "Swimming",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor J",
+        "bets": 284
+    },
+    {
+        "id": "493e28d8-bf19-4e04-a33f-68bdd8f0d134",
+        "sport": "Badminton",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor G",
+        "bets": 241
+    },
+    {
+        "id": "d4cb50dc-302c-408e-9154-4c0bd6986128",
+        "sport": "Table Tennis",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor G",
+        "bets": 47
+    },
+    {
+        "id": "6b7eecca-8145-4cd9-9c0b-dc32cd499cf5",
+        "sport": "Tennis",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor F",
+        "bets": 166
+    },
+    {
+        "id": "f64137c3-eebd-41ef-b6fc-7add43fac1f2",
+        "sport": "Skiing",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor G",
+        "bets": 49
+    },
+    {
+        "id": "c2657df7-1b8c-4949-ab3b-fdf127be5e46",
+        "sport": "Volleyball",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor G",
+        "bets": 150
+    },
+    {
+        "id": "77757669-97e5-4bee-9447-18e54ce9c663",
+        "sport": "Volleyball",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor J",
+        "bets": 214
+    },
+    {
+        "id": "5e0d1579-7254-43aa-ada0-d4100f0e9e81",
+        "sport": "MMA",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor G",
+        "bets": 195
+    },
+    {
+        "id": "8fcf73ed-1f10-4ff6-b3f6-a6b599e22932",
+        "sport": "Cycling",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor H",
+        "bets": 30
+    },
+    {
+        "id": "f4b4e268-fcb1-4d40-99f5-a2257d146a7a",
+        "sport": "Baseball",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor I",
+        "bets": 173
+    },
+    {
+        "id": "b0d0122b-0ccf-4bb9-86de-30707b49b55e",
+        "sport": "Tennis",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor F",
+        "bets": 242
+    },
+    {
+        "id": "3bd906a0-2c90-49a9-b06f-2d219ca6f838",
+        "sport": "Basketball",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor J",
+        "bets": 20
+    },
+    {
+        "id": "a94f2a9e-0d8d-42da-ba29-ea0021a0dbe0",
+        "sport": "Cricket",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor F",
+        "bets": 60
+    },
+    {
+        "id": "d3d0814f-2eea-4b82-b788-b2776c00b62a",
+        "sport": "Table Tennis",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 142
+    },
+    {
+        "id": "2fc6ae71-acf1-49d7-8464-c6a907cfeabc",
+        "sport": "Skiing",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor I",
+        "bets": 157
+    },
+    {
+        "id": "1ce66899-4d46-461c-9f6c-b1341a6c8b73",
+        "sport": "Badminton",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor H",
+        "bets": 203
+    },
+    {
+        "id": "ca60d1c9-a752-4260-9dad-5738fe1f2314",
+        "sport": "Soccer",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor F",
+        "bets": 204
+    },
+    {
+        "id": "0e67457b-1ed1-40b1-9ceb-56a45de5bff5",
+        "sport": "Formula 1",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor I",
+        "bets": 123
+    },
+    {
+        "id": "5b69eeff-8d83-4f7a-9698-0ce8beb3959f",
+        "sport": "Cricket",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor J",
+        "bets": 181
+    },
+    {
+        "id": "293da25f-66fe-4c79-8b19-40c67d679c2a",
+        "sport": "Swimming",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor I",
+        "bets": 173
+    },
+    {
+        "id": "327c7c12-4ae8-454f-add7-33d0ff004aa3",
+        "sport": "MMA",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor H",
+        "bets": 175
+    },
+    {
+        "id": "f96a7bc9-0c7d-4b51-8ae5-ce03f285995e",
+        "sport": "Table Tennis",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 163
+    },
+    {
+        "id": "f4282f93-a5b4-4bf7-af87-8f2e83d1b846",
+        "sport": "Skiing",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor G",
+        "bets": 178
+    },
+    {
+        "id": "1fbe744f-b0a6-4ca0-a24c-0a34ffabac49",
+        "sport": "Soccer",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor F",
+        "bets": 254
+    },
+    {
+        "id": "f439258b-7ae6-4e63-9a75-49d6c8826d28",
+        "sport": "Baseball",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor I",
+        "bets": 226
+    },
+    {
+        "id": "57c691b3-551c-4d9b-a9d0-736a765b7b5f",
+        "sport": "Boxing",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor G",
+        "bets": 110
+    },
+    {
+        "id": "bc1b9fe3-cc03-450c-97ca-c53ff86c21e9",
+        "sport": "Rugby",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor H",
+        "bets": 167
+    },
+    {
+        "id": "e9cd7b87-39a8-46df-afc2-fe2f3999fd13",
+        "sport": "Swimming",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor J",
+        "bets": 224
+    },
+    {
+        "id": "df376e4d-862e-4365-af46-b47d62a8761f",
+        "sport": "Baseball",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor I",
+        "bets": 248
+    },
+    {
+        "id": "6c8da60f-5fbd-49e4-92ba-ffd57c82ae8a",
+        "sport": "Skiing",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor F",
+        "bets": 271
+    },
+    {
+        "id": "70299298-9e05-4480-bafa-15ddba2a551a",
+        "sport": "Tennis",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor G",
+        "bets": 207
+    },
+    {
+        "id": "84b5f917-5229-495a-ad79-d95c9671d6bd",
+        "sport": "Badminton",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor F",
+        "bets": 117
+    },
+    {
+        "id": "242a5bfe-9634-4d34-892a-24ab4ecb4fcb",
+        "sport": "Baseball",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor H",
+        "bets": 191
+    },
+    {
+        "id": "56c34a5d-6c34-49d6-85b1-6f3882c892d0",
+        "sport": "Basketball",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor I",
+        "bets": 267
+    },
+    {
+        "id": "b437614b-e662-48a7-a86d-0f195a1e601b",
+        "sport": "Badminton",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor H",
+        "bets": 146
+    },
+    {
+        "id": "317b69d8-d007-4180-8122-1f8abea02ff5",
+        "sport": "MMA",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor F",
+        "bets": 149
+    },
+    {
+        "id": "a4f20ac5-74b1-4ef2-ab8e-8f969cbe4933",
+        "sport": "Boxing",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor G",
+        "bets": 217
+    },
+    {
+        "id": "10b0199c-8cc8-4f43-9803-c32dd18a2b62",
+        "sport": "Cricket",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor H",
+        "bets": 293
+    },
+    {
+        "id": "5651df98-43d3-446d-b984-40237bed349d",
+        "sport": "Badminton",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 115
+    },
+    {
+        "id": "f55fa2e6-8094-4c4d-b968-89819c5c70e1",
+        "sport": "Basketball",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor H",
+        "bets": 49
+    },
+    {
+        "id": "8091190f-0ae3-4c7f-8658-968bca072410",
+        "sport": "Rugby",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor J",
+        "bets": 182
+    },
+    {
+        "id": "e264dacb-53b3-4a89-9439-30f58d17c014",
+        "sport": "Surfing",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor J",
+        "bets": 97
+    },
+    {
+        "id": "2a162510-6a68-4e85-832e-0864f8fb35da",
+        "sport": "Snooker",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor F",
+        "bets": 283
+    },
+    {
+        "id": "5ea5b1fa-1d56-4dc7-9695-a298079fe50f",
+        "sport": "Snooker",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor J",
+        "bets": 150
+    },
+    {
+        "id": "11288d11-b445-4e0c-a188-218f7a99b6cb",
+        "sport": "Table Tennis",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor F",
+        "bets": 269
+    },
+    {
+        "id": "9af06aeb-6771-4981-9d63-20755642e88b",
+        "sport": "Skiing",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor F",
+        "bets": 200
+    },
+    {
+        "id": "bb4e1665-7ac1-49cb-8f93-3eba213a4da3",
+        "sport": "Baseball",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor F",
+        "bets": 105
+    },
+    {
+        "id": "0273a247-2887-4df7-9f90-21b3aa1fa128",
+        "sport": "Cycling",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 227
+    },
+    {
+        "id": "f885e1e1-cf2d-4893-a094-a6c7b1a59e11",
+        "sport": "Volleyball",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor F",
+        "bets": 54
+    },
+    {
+        "id": "6e26bd21-e91f-4b07-9961-1e2d95c5be9a",
+        "sport": "Basketball",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor G",
+        "bets": 123
+    },
+    {
+        "id": "ee61f815-8db8-4ef2-b572-dc75564aeb0d",
+        "sport": "Baseball",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor J",
+        "bets": 188
+    },
+    {
+        "id": "5a12b5a3-2783-4b65-ad71-112da632d6e1",
+        "sport": "Basketball",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 50
+    },
+    {
+        "id": "b7228f43-8e80-492b-8159-f43c80a7ff2d",
+        "sport": "Badminton",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor G",
+        "bets": 88
+    },
+    {
+        "id": "6a089828-253e-4bb3-b61e-3e19b95b756f",
+        "sport": "American Football",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor H",
+        "bets": 273
+    },
+    {
+        "id": "7510f732-e39b-4cd8-b90b-ef80bf99a0b3",
+        "sport": "Golf",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor F",
+        "bets": 68
+    },
+    {
+        "id": "9c5409c9-0697-474a-b031-b68a9c250afc",
+        "sport": "Snooker",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor H",
+        "bets": 265
+    },
+    {
+        "id": "dd3e7226-3851-4c2a-b11e-bea1cef1d209",
+        "sport": "Badminton",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor F",
+        "bets": 91
+    },
+    {
+        "id": "4f5e3277-b0e8-4d2c-b8d7-2e603aa1cfb8",
+        "sport": "Skiing",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor H",
+        "bets": 158
+    },
+    {
+        "id": "be867b92-7a7b-4659-83a8-4abe9a0d465a",
+        "sport": "Hockey",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor G",
+        "bets": 24
+    },
+    {
+        "id": "f81f3014-c4b3-4c0c-a562-ae07be932fec",
+        "sport": "Badminton",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor J",
+        "bets": 193
+    },
+    {
+        "id": "0832986e-e439-474e-929f-135d3a561c33",
+        "sport": "Badminton",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor F",
+        "bets": 251
+    },
+    {
+        "id": "cba29d20-3b82-405c-a5d8-c2a366efefd6",
+        "sport": "American Football",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor I",
+        "bets": 20
+    },
+    {
+        "id": "bd12e979-053a-4a68-bed4-eb9f3c95f2f4",
+        "sport": "Surfing",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor H",
+        "bets": 45
+    },
+    {
+        "id": "ba3726ad-7f46-4e9a-9332-473e9afb14d1",
+        "sport": "Rugby",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor H",
+        "bets": 154
+    },
+    {
+        "id": "136d7a80-9869-428b-acf8-bf999bb96ec4",
+        "sport": "Skiing",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor J",
+        "bets": 223
+    },
+    {
+        "id": "3ebb3dbc-cb43-48bb-9a3d-6aeb170678f5",
+        "sport": "Golf",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor F",
+        "bets": 114
+    },
+    {
+        "id": "59893e7c-b1f3-44a6-80d4-b3bc62fd2619",
+        "sport": "Rugby",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor I",
+        "bets": 58
+    },
+    {
+        "id": "7772c5ba-70d0-401a-99db-2bbdbbedae80",
+        "sport": "Table Tennis",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor J",
+        "bets": 261
+    },
+    {
+        "id": "7f1ff396-6d4d-4b0d-bfc8-743428c70dc3",
+        "sport": "MMA",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor F",
+        "bets": 30
+    },
+    {
+        "id": "d1e188af-7c35-4312-91c2-914bfb6c3033",
+        "sport": "Snooker",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor G",
+        "bets": 97
+    },
+    {
+        "id": "f8ddff24-b3e7-4d01-ace8-d7b4ee3d5e5b",
+        "sport": "Snooker",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor H",
+        "bets": 206
+    },
+    {
+        "id": "74162f12-6bce-4404-8fd6-cb3951470b94",
+        "sport": "Formula 1",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor F",
+        "bets": 86
+    },
+    {
+        "id": "3efff060-035a-4e90-ac93-a6e5577f19f0",
+        "sport": "MMA",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor F",
+        "bets": 150
+    },
+    {
+        "id": "dcbdc3dd-181a-4ed4-8565-007f545be0f3",
+        "sport": "Badminton",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor J",
+        "bets": 50
+    },
+    {
+        "id": "c0f78f74-6a4b-4c62-bdca-c5e82a241403",
+        "sport": "Surfing",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor G",
+        "bets": 57
+    },
+    {
+        "id": "246f7d22-4050-49fc-90ab-60ad8a0d6909",
+        "sport": "American Football",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor H",
+        "bets": 267
+    },
+    {
+        "id": "059463b0-c998-4a1c-9311-5fea14b50e7f",
+        "sport": "Rugby",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 272
+    },
+    {
+        "id": "43ff86c8-3dbb-4e4c-a86b-c2d29f51b0fd",
+        "sport": "Baseball",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor J",
+        "bets": 290
+    },
+    {
+        "id": "dc93e100-7d83-41ac-9405-77b039b6f2af",
+        "sport": "Basketball",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor J",
+        "bets": 68
+    },
+    {
+        "id": "0fa64842-8f16-422b-9aa0-f88bd533a9bb",
+        "sport": "Cricket",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 77
+    },
+    {
+        "id": "361738ab-fe39-41b0-b2a4-81034a15b608",
+        "sport": "Basketball",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor J",
+        "bets": 178
+    },
+    {
+        "id": "639a2b8c-e58b-4a3e-8f4e-e776af55d6a2",
+        "sport": "MMA",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor G",
+        "bets": 207
+    },
+    {
+        "id": "ca56ad75-7bbe-4974-9d1e-a19b1c9a2452",
+        "sport": "Table Tennis",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 211
+    },
+    {
+        "id": "be96ca4c-ff35-4cb6-a317-b722ab497056",
+        "sport": "Hockey",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor I",
+        "bets": 66
+    },
+    {
+        "id": "75affdd8-0c0d-4402-971f-0f91a6cc81e1",
+        "sport": "Cricket",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor G",
+        "bets": 172
+    },
+    {
+        "id": "13a15e5a-0685-4837-beed-e28f9140ad87",
+        "sport": "Rugby",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor F",
+        "bets": 223
+    },
+    {
+        "id": "f52ddbd1-d43d-4a8f-883a-e628004e195a",
+        "sport": "Snooker",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 20
+    },
+    {
+        "id": "0f6aa7b4-4864-4461-8947-1fc994bc2e11",
+        "sport": "Golf",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor F",
+        "bets": 161
+    },
+    {
+        "id": "aed821a3-a317-4a9c-8e2a-5fb7905fc39e",
+        "sport": "Boxing",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor G",
+        "bets": 123
+    },
+    {
+        "id": "5597ffb5-0c6d-419c-b779-29cc1cfd39ba",
+        "sport": "Basketball",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor I",
+        "bets": 128
+    },
+    {
+        "id": "1b4a7309-822f-4776-a570-1f62063e398e",
+        "sport": "Swimming",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor I",
+        "bets": 93
+    },
+    {
+        "id": "8ab92582-c214-4a4f-a92e-2f829740fe40",
+        "sport": "Volleyball",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor H",
+        "bets": 221
+    },
+    {
+        "id": "e54f946d-c224-4bec-9912-2c16b2ecaf55",
+        "sport": "Volleyball",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor J",
+        "bets": 173
+    },
+    {
+        "id": "869a5c87-7f80-4768-9100-73f08a55dec5",
+        "sport": "Badminton",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor H",
+        "bets": 223
+    },
+    {
+        "id": "0a9220ae-e583-4909-b01a-c6b2527810d1",
+        "sport": "Soccer",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor F",
+        "bets": 76
+    },
+    {
+        "id": "8f13a912-c1f0-453a-94a1-95c15cd07cd8",
+        "sport": "Rugby",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 270
+    },
+    {
+        "id": "7ff00e26-59da-4735-bfb3-a01e73133a42",
+        "sport": "Cricket",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor F",
+        "bets": 149
+    },
+    {
+        "id": "c4f29d3e-9878-4337-90f5-e4b8736f978d",
+        "sport": "Badminton",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 265
+    },
+    {
+        "id": "11c58dfd-e038-4e88-8bc4-aaa45f2764be",
+        "sport": "Cycling",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor J",
+        "bets": 76
+    },
+    {
+        "id": "9cfb9bfe-b0a1-4de6-8fc3-79e285008860",
+        "sport": "Surfing",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor J",
+        "bets": 187
+    },
+    {
+        "id": "7d07af93-eca3-4be0-9684-3456590d0315",
+        "sport": "Cycling",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor G",
+        "bets": 219
+    },
+    {
+        "id": "e58b9f41-5e9b-4dcd-9bca-251ff9249fd3",
+        "sport": "Skiing",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor H",
+        "bets": 256
+    },
+    {
+        "id": "f311ed6c-6eb3-421a-b440-8fd01e15f487",
+        "sport": "Skiing",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 214
+    },
+    {
+        "id": "46ab9281-e5df-4aed-a02d-0e8a276eeea7",
+        "sport": "Boxing",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor J",
+        "bets": 300
+    },
+    {
+        "id": "8e33243c-df6f-4a54-8093-dad3ca54cf0b",
+        "sport": "Soccer",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 132
+    },
+    {
+        "id": "73737037-1d30-4082-b408-796c99a3fe53",
+        "sport": "Baseball",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor G",
+        "bets": 167
+    },
+    {
+        "id": "51ea465a-dd51-4bf8-8090-464f9e89ca13",
+        "sport": "Surfing",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor J",
+        "bets": 216
+    },
+    {
+        "id": "45a7e45c-7505-4918-bb25-d433f2f09481",
+        "sport": "American Football",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 254
+    },
+    {
+        "id": "bf0c754c-c24f-42bc-b06b-ea8a944fee00",
+        "sport": "Swimming",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor J",
+        "bets": 227
+    },
+    {
+        "id": "8795d48f-7f62-4020-a771-a19dc2a191b2",
+        "sport": "Snooker",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor I",
+        "bets": 48
+    },
+    {
+        "id": "3de8d8a4-644c-4656-8241-da068114c8bd",
+        "sport": "Baseball",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor H",
+        "bets": 226
+    },
+    {
+        "id": "b7d9ba2d-c7dc-445e-83b6-10935728a819",
+        "sport": "Table Tennis",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor J",
+        "bets": 17
+    },
+    {
+        "id": "4a5d587c-8565-4e0f-9e6b-2654af01b9b2",
+        "sport": "Snooker",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor G",
+        "bets": 29
+    },
+    {
+        "id": "2e30d14c-1ace-4be3-8627-5dbdfad01e0d",
+        "sport": "Badminton",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor I",
+        "bets": 283
+    },
+    {
+        "id": "79450889-6827-400e-b2b7-70fab725fe9f",
+        "sport": "Snooker",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 166
+    },
+    {
+        "id": "b4f76714-173f-4b38-8b75-15efa2945065",
+        "sport": "Swimming",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor I",
+        "bets": 54
+    },
+    {
+        "id": "77ffee8c-0765-4eb5-b945-d43a8fc4636c",
+        "sport": "MMA",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor H",
+        "bets": 146
+    },
+    {
+        "id": "d9c99cf0-1f90-4c44-a36d-c689c71f2202",
+        "sport": "Rugby",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor J",
+        "bets": 87
+    },
+    {
+        "id": "36158c48-b16e-44ac-a8b1-becb5a02980c",
+        "sport": "Cricket",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor G",
+        "bets": 50
+    },
+    {
+        "id": "a7b984d2-b5ac-4075-aa23-974b59b4982a",
+        "sport": "Table Tennis",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor I",
+        "bets": 64
+    },
+    {
+        "id": "800fb81f-4fd2-43a2-9dc4-c183355792ae",
+        "sport": "Tennis",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor F",
+        "bets": 227
+    },
+    {
+        "id": "2fb218b6-e2dc-454a-a9de-836fc91caeff",
+        "sport": "Volleyball",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor G",
+        "bets": 238
+    },
+    {
+        "id": "f289ee0b-1b41-4a95-879f-b8d86fe20750",
+        "sport": "Formula 1",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor J",
+        "bets": 94
+    },
+    {
+        "id": "59fc1af2-91a6-497a-9e21-304545b61538",
+        "sport": "Tennis",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor J",
+        "bets": 189
+    },
+    {
+        "id": "e559a704-7941-4a06-b87c-23ddd086a0db",
+        "sport": "Table Tennis",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor G",
+        "bets": 211
+    },
+    {
+        "id": "40980714-6056-433a-95d5-6da09f04ca2b",
+        "sport": "Badminton",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor J",
+        "bets": 97
+    },
+    {
+        "id": "88f8581d-faaf-4d51-b62d-b640b1840f27",
+        "sport": "Surfing",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor I",
+        "bets": 43
+    },
+    {
+        "id": "052ce1da-b2e5-4dd5-a635-30c902db318a",
+        "sport": "Cricket",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor H",
+        "bets": 159
+    },
+    {
+        "id": "7087e139-387b-4636-9b6a-d0dfdf758e3a",
+        "sport": "Skiing",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor H",
+        "bets": 216
+    },
+    {
+        "id": "6953dc7a-cb2e-4c80-8e25-2f0e2ea87957",
+        "sport": "Golf",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor F",
+        "bets": 127
+    },
+    {
+        "id": "9545dd19-de45-41b1-9bf2-63baf41083c6",
+        "sport": "Volleyball",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor F",
+        "bets": 199
+    },
+    {
+        "id": "da4624e4-75a6-46c8-92ab-78c0ce36ff42",
+        "sport": "Formula 1",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor F",
+        "bets": 170
+    },
+    {
+        "id": "90d37390-cb14-43b2-b5f8-859390efb278",
+        "sport": "Soccer",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor H",
+        "bets": 278
+    },
+    {
+        "id": "8af3af06-7958-4d54-bf8b-2070a1903dd0",
+        "sport": "Skiing",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor I",
+        "bets": 86
+    },
+    {
+        "id": "d3cb0b44-879e-4731-a371-e09fd33b4f6c",
+        "sport": "Table Tennis",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor H",
+        "bets": 212
+    },
+    {
+        "id": "213077ec-e8ca-46de-ab74-994bec8564e5",
+        "sport": "Formula 1",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 134
+    },
+    {
+        "id": "eaa38548-fbea-4ec8-a77d-2fc348d63bfa",
+        "sport": "Surfing",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor J",
+        "bets": 120
+    },
+    {
+        "id": "80ecdfb4-6975-4a03-b94f-e2cb04d30bf7",
+        "sport": "Volleyball",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor I",
+        "bets": 22
+    },
+    {
+        "id": "fc2238f6-758d-4844-9850-a113251ef685",
+        "sport": "Formula 1",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor F",
+        "bets": 176
+    },
+    {
+        "id": "b4f318ea-5e22-4a1c-b33f-1654854132c6",
+        "sport": "Snooker",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor F",
+        "bets": 171
+    },
+    {
+        "id": "ee08590a-7da9-4a2d-a1b3-64ad5d3a57e8",
+        "sport": "Formula 1",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor F",
+        "bets": 40
+    },
+    {
+        "id": "252fcaeb-d82c-47a9-af02-1a55d667c1a4",
+        "sport": "Table Tennis",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor J",
+        "bets": 186
+    },
+    {
+        "id": "f7594fd3-a8f5-486b-8667-f86e8c6d9e5f",
+        "sport": "Boxing",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor G",
+        "bets": 157
+    },
+    {
+        "id": "6ba04231-e5d9-46e9-b1aa-24ec6dbde12c",
+        "sport": "American Football",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor J",
+        "bets": 201
+    },
+    {
+        "id": "0e147786-e5bc-4ded-b3a3-3ed6a34ee446",
+        "sport": "Table Tennis",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor J",
+        "bets": 42
+    },
+    {
+        "id": "5e322666-0fc5-4141-a399-5f66d9553ff6",
+        "sport": "Cricket",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor I",
+        "bets": 40
+    },
+    {
+        "id": "c9ea1edf-4532-4015-84e0-f3dc037f940e",
+        "sport": "Table Tennis",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 253
+    },
+    {
+        "id": "0088149c-f5c3-4f73-9189-835954ecfe54",
+        "sport": "MMA",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor G",
+        "bets": 162
+    },
+    {
+        "id": "6fd6c5cb-8390-48c0-9cf9-6559994f43d4",
+        "sport": "American Football",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 39
+    },
+    {
+        "id": "e7f6f71a-80af-4909-bb9f-4304b5146cf5",
+        "sport": "Baseball",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor I",
+        "bets": 120
+    },
+    {
+        "id": "c2199d04-e871-44fd-bc15-71c323b581d7",
+        "sport": "Soccer",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor H",
+        "bets": 156
+    },
+    {
+        "id": "b6207bcd-36bf-408f-a6a1-c46711838ce9",
+        "sport": "Soccer",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor G",
+        "bets": 90
+    },
+    {
+        "id": "ca3f3aac-72ac-49ef-8808-afaa49215204",
+        "sport": "Volleyball",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor G",
+        "bets": 111
+    },
+    {
+        "id": "647f5d06-f8f4-490b-8346-44d6308543ee",
+        "sport": "Golf",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 96
+    },
+    {
+        "id": "27919c39-a96c-440f-bb83-1d0396a85e9d",
+        "sport": "Surfing",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor H",
+        "bets": 198
+    },
+    {
+        "id": "922088ac-7e92-4594-9c87-03ec09484bd7",
+        "sport": "Badminton",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor F",
+        "bets": 215
+    },
+    {
+        "id": "4d00cace-b7c9-4696-94f1-9861ca676522",
+        "sport": "Baseball",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor H",
+        "bets": 105
+    },
+    {
+        "id": "6522a858-aaab-4f3a-bc1a-6709aa58d01c",
+        "sport": "Cycling",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor I",
+        "bets": 75
+    },
+    {
+        "id": "8682bd6b-e51f-4e72-940f-a4bfd7017487",
+        "sport": "American Football",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor H",
+        "bets": 121
+    },
+    {
+        "id": "9a2c15d7-f648-4e44-b61b-fd8417856811",
+        "sport": "Skiing",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 23
+    },
+    {
+        "id": "71068f50-748c-4cd8-bc54-aee7f09ab8a1",
+        "sport": "Skiing",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor F",
+        "bets": 134
+    },
+    {
+        "id": "4c57d2cb-d4d4-4e09-ad85-5970d44c9a67",
+        "sport": "MMA",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor F",
+        "bets": 21
+    },
+    {
+        "id": "99aa558c-99c2-4d6a-9f3a-9ec67a40a715",
+        "sport": "Baseball",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor G",
+        "bets": 188
+    },
+    {
+        "id": "094d629b-1101-43cb-a3b6-b1cb0533ce2b",
+        "sport": "Basketball",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor F",
+        "bets": 241
+    },
+    {
+        "id": "17c5e777-c68f-4bfa-84ea-3b54daa3050d",
+        "sport": "Boxing",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor G",
+        "bets": 192
+    },
+    {
+        "id": "9ee3ed9b-df90-442b-a8f7-3896c9233ed1",
+        "sport": "Baseball",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor J",
+        "bets": 298
+    },
+    {
+        "id": "2a389a63-d0cc-4d31-a7c7-dbde952e7528",
+        "sport": "Skiing",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor G",
+        "bets": 139
+    },
+    {
+        "id": "ba2be025-125b-4279-89df-93585d57a0d2",
+        "sport": "Soccer",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 197
+    },
+    {
+        "id": "01fc5dcc-babe-449a-bb48-0d065b179bb9",
+        "sport": "Skiing",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 223
+    },
+    {
+        "id": "211217cb-5175-4ab3-8d1c-f3a98a4866d8",
+        "sport": "Boxing",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor J",
+        "bets": 129
+    },
+    {
+        "id": "3732f94d-680e-4608-88a6-b06051597833",
+        "sport": "Swimming",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor H",
+        "bets": 10
+    },
+    {
+        "id": "157756e0-4477-4aef-8e56-0eea27000e1f",
+        "sport": "Swimming",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor H",
+        "bets": 286
+    },
+    {
+        "id": "8ebb06ce-5198-4154-9edc-4ce9d6b214a4",
+        "sport": "Basketball",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor I",
+        "bets": 225
+    },
+    {
+        "id": "c095ff7b-af03-412a-9c4b-aae14f898b8b",
+        "sport": "MMA",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 271
+    },
+    {
+        "id": "5fd16111-3880-4cf3-991a-862e33523da4",
+        "sport": "Formula 1",
+        "competitor1": "Competitor D",
+        "competitor2": "Competitor I",
+        "bets": 281
+    },
+    {
+        "id": "4482dd33-19d3-4d81-a324-6d0dddf5fc8b",
+        "sport": "Badminton",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 196
+    },
+    {
+        "id": "4f281dd2-41eb-49b4-8ffe-f4a8ae0c1e73",
+        "sport": "Badminton",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 137
+    },
+    {
+        "id": "65e64703-9180-4b49-9659-4c8317853096",
+        "sport": "Cycling",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor G",
+        "bets": 243
+    },
+    {
+        "id": "82b28e70-7969-4691-947d-1a3aeabbf298",
+        "sport": "Volleyball",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 251
+    },
+    {
+        "id": "475cf2b4-4f82-46de-b024-76d941272f9e",
+        "sport": "Cycling",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor H",
+        "bets": 299
+    },
+    {
+        "id": "a78d0c09-d9b7-44fc-a52b-86aeeb6bb9f1",
+        "sport": "Volleyball",
+        "competitor1": "Competitor C",
+        "competitor2": "Competitor F",
+        "bets": 110
+    },
+    {
+        "id": "14a438c2-de72-406a-bcbd-08b5b7671b96",
+        "sport": "Hockey",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor J",
+        "bets": 147
+    },
+    {
+        "id": "88a435d9-9a33-438d-b816-4f6c327c5413",
+        "sport": "Surfing",
+        "competitor1": "Competitor B",
+        "competitor2": "Competitor F",
+        "bets": 158
+    },
+    {
+        "id": "1ea0414b-0dd3-4c50-9b0e-121aaf14978c",
+        "sport": "Baseball",
+        "competitor1": "Competitor A",
+        "competitor2": "Competitor F",
+        "bets": 119
+    },
+    {
+        "id": "f466a189-454c-42a4-bea1-8801fc0f7df2",
+        "sport": "MMA",
+        "competitor1": "Competitor E",
+        "competitor2": "Competitor I",
+        "bets": 98
+    }
+]

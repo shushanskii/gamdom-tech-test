@@ -1,14 +1,14 @@
 import styled from 'styled-components'
 import { rgba } from 'polished'
-import { colors, font, FontSize, FontWeight, LineHeight, rounded, spacing } from 'styles'
+import { colors, font, FontSize, FontWeight, LineHeight, rounded, spacing, width } from 'styles'
 
 export const Container = styled.div`
+    width: ${width.sm};
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    padding: 0;
-    gap: 0;
+    padding: ${spacing['5']};
     border-radius: ${rounded.lg};
     border: 1px solid ${colors.gray['200']};
     background: ${colors.white};
@@ -17,26 +17,10 @@ export const Container = styled.div`
     flex-shrink: 0;
 `
 
-export const Image = styled.img`
-    width: 275px;
-    height: 175px;
-    padding: ${spacing['6']} ${spacing['4']}
-`
-
-export const Wrapper = styled.div`
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 ${spacing['5']} ${spacing['5']} ${spacing['5']}
-`
-
 export const Title = styled.div`
     width: 100%;
     color: ${colors.gray['900']};
     ${font(FontSize.xl, FontWeight.semibold, LineHeight.leadingTight)}
-    padding-bottom: ${spacing['5']}
 `
 
 export const Bets = styled.div`

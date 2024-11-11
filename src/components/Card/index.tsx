@@ -1,29 +1,27 @@
-import { CSSProperties } from 'react'
-
 // Components
 import Button from 'components/Button'
 
 // Styled
-import { Bets, Container, Image, Numbers, Title, Wrapper } from './styled'
+import { Bets, Container, Numbers, Title } from './styled'
 
 interface Props {
-  style?: CSSProperties
+  id: string
+  sport: string
+  competitor1: string
+  competitor2: string
+  bets: number
 }
 
-function Card({ style }: Props) {
+function Card({ sport, competitor1, competitor2, bets }: Props) {
   return (
-    <Container style={style}>
-      <Image src={'https://placehold.co/275x175'} />
-      <Wrapper>
-        <Title>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at enim
-          convallis ipsum pellentesque semper in eget justo.
-        </Title>
-        <Bets>
-          <Numbers>9999</Numbers>
-          <Button caption={'Bet'} />
-        </Bets>
-      </Wrapper>
+    <Container>
+      <Title>{sport}</Title>
+      <Title>{competitor1}</Title>
+      <Title>{competitor2}</Title>
+      <Bets>
+        <Numbers>{bets}</Numbers>
+        <Button caption={'Bet'} />
+      </Bets>
     </Container>
   )
 }

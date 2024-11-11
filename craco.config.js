@@ -1,4 +1,6 @@
 /* eslint-disable */
+const CopyWebpackPlugin = require('copy-webpack-plugin')
+
 module.exports = {
   webpack: {
     configure: (webpackConfig) => {
@@ -7,6 +9,14 @@ module.exports = {
         resolve: {
           ...webpackConfig.resolve,
         },
+        plugins: [
+          ...webpackConfig.plugins,
+          new CopyWebpackPlugin({
+            patterns: [
+              { from: 'assets/data', to: 'data' },
+            ],
+          }),
+        ],
       };
     },
   },
@@ -14,4 +24,4 @@ module.exports = {
     open: false,
     https: true,
   },
-};
+}
