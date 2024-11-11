@@ -10,6 +10,7 @@ import Main from 'pages/Main'
 import GlobalStyle from 'styles/GlobalStyle'
 import ModalsProvider from './components/Modals/Provider'
 import Modals from './components/Modals'
+import Navbar from './components/Navbar'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <ModalsProvider>
         <GlobalStyle />
         <Modals/>
+        <Navbar />
         <Main />
       </ModalsProvider>
     </Provider>

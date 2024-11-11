@@ -4,6 +4,7 @@ import type { PayloadAction } from '@reduxjs/toolkit'
 export interface State {
   modalIsOpen: boolean
   currentId?: string
+  filter?: string | null
 }
 
 const initialState: State = {
@@ -19,10 +20,13 @@ export const appSlice = createSlice({
     },
     setCurrentId: (state, { payload }: PayloadAction<string>) => {
       state.currentId = payload
-    }
+    },
+    setFilter: (state, { payload }: PayloadAction<string>) => {
+      state.filter = payload
+    },
   },
 })
 
-export const { setModalIsOpen, setCurrentId } = appSlice.actions
+export const { setModalIsOpen, setCurrentId, setFilter } = appSlice.actions
 
 export default appSlice.reducer

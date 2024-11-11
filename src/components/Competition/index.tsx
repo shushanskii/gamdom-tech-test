@@ -15,7 +15,7 @@ interface Props {
   competitors: Record<string, number>
 }
 
-function Card({ id, sport, competitors }: Props) {
+function Competition({ id, sport, competitors }: Props) {
   const dispatch = useDispatch()
 
   const handleClick = () => {
@@ -43,4 +43,4 @@ function Card({ id, sport, competitors }: Props) {
   )
 }
 
-export default Card
+export default Competition

@@ -7,10 +7,12 @@ export interface Competition {
 }
 
 export interface State {
+  sports: string[]
   competitions: Record<string, Competition>
 }
 
 const initialState: State = {
+  sports: [],
   competitions: {},
 }
 
@@ -18,10 +20,15 @@ export const dataSlice = createSlice({
   name: 'data',
   initialState,
   reducers: {
-    fill: (state, { payload }: PayloadAction<Record<string, Competition>>) => {
+    populateCompetitions: (
+      state,
+      { payload }: PayloadAction<Record<string, Competition>>,
+    ) => {
       state.competitions = { ...payload }
     },
-
+    populateSports: (state, { payload }: PayloadAction<string[]>) => {
+      state.sports = payload
+    },
     increase: (
       state,
       { payload: { id, name } }: PayloadAction<{ id: string; name: string }>,
@@ -37,6 +44,7 @@ export const dataSlice = createSlice({
   },
 })
 
-export const { fill, increase } = dataSlice.actions
+export const { populateCompetitions, populateSports, increase } =
+  dataSlice.actions
 
 export default dataSlice.reducer

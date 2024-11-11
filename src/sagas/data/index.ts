@@ -1,7 +1,7 @@
-import { all, takeEvery, put } from 'redux-saga/effects'
+import { all, takeEvery, put, call } from 'redux-saga/effects'
 
 // Store
-import { fill, Competition } from 'store/data'
+import { populateCompetitions, Competition, populateSports } from 'store/data'
 
 export enum ActionTypes {
   FETCH = 'FETCH',
@@ -20,7 +20,7 @@ interface SportsData {
   }[]
 }
 
-function* fetchData() {
+function* fetchCompetitions() {
   const response: Response = yield fetch('/data/sports_data.json')
 
   if (!response.ok) {
@@ -45,7 +45,24 @@ function* fetchData() {
     return result
   }, {})
 
-  yield put(fill(data))
+  yield put(populateCompetitions(data))
+}
+
+function* fetchSports() {
+  const response: Response = yield fetch('/data/sports_list.json')
+
+  if (!response.ok) {
+    throw new Error(`Response status: ${response.status}`)
+  }
+
+  const data: string[] = yield response.json()
+
+  yield put(populateSports(data))
+}
+
+function* fetchData() {
+  yield call(fetchCompetitions)
+  yield call(fetchSports)
 }
 
 function* data() {

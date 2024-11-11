@@ -1,21 +1,21 @@
 // Components
-import Card from 'components/Card'
+import Competition from 'components/Competition'
 
 // Types
-import { Competition } from 'store/data'
+import { Competition as CompetitionType } from 'store/data'
 
 // Styled
 import { Container } from './styled'
 
 interface Props {
-  competitions: Record<string, Competition>
+  competitions: Record<string, CompetitionType>
 }
 
 function Competitions({ competitions }: Props) {
   return (
     <Container>
       {Object.entries(competitions).map(([id, rest], index) => (
-        <Card
+        <Competition
           id={id}
           {...rest}
           key={`${id}-${index}-card`}
