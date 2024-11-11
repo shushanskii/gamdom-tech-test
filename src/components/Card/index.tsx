@@ -1,12 +1,18 @@
+import { CSSProperties } from 'react'
+
 // Components
 import Button from 'components/Button'
 
 // Styled
 import { Bets, Container, Image, Numbers, Title, Wrapper } from './styled'
 
-function Card() {
+interface Props {
+  style?: CSSProperties
+}
+
+function Card({ style }: Props) {
   return (
-    <Container>
+    <Container style={style}>
       <Image src={'https://placehold.co/275x175'} />
       <Wrapper>
         <Title>

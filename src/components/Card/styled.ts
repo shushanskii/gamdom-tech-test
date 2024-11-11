@@ -1,9 +1,8 @@
 import styled from 'styled-components'
 import { rgba } from 'polished'
-import { colors, font, FontSize, FontWeight, LineHeight, rounded, spacing, width } from 'styles'
+import { colors, font, FontSize, FontWeight, LineHeight, rounded, spacing } from 'styles'
 
 export const Container = styled.div`
-    width: ${width.sm};
     display: flex;
     flex-direction: column;
     justify-content: space-between;
