@@ -1,27 +1,28 @@
 import { createSlice } from '@reduxjs/toolkit'
 import type { PayloadAction } from '@reduxjs/toolkit'
 
-export interface Item {
+export interface Competition {
   sport: string
-  competitor1: string
-  competitor2: string
-  bets: number
+  competitors: {
+    name: string
+    bets: number
+  }[]
 }
 
 export interface State {
-  data: Record<string, Item>
+  competitions: Record<string, Competition>
 }
 
 const initialState: State = {
-  data: {}
+  competitions: {},
 }
 
 export const dataSlice = createSlice({
   name: 'data',
   initialState,
   reducers: {
-    fill: (state, { payload }: PayloadAction<Record<string, Item>>) => {
-      state.data = { ...payload }
+    fill: (state, { payload }: PayloadAction<Record<string, Competition>>) => {
+      state.competitions = { ...payload }
     },
   },
 })

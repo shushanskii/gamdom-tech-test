@@ -1,19 +1,21 @@
+import { useEffect } from 'react'
+import { useDispatch } from 'react-redux'
+
 // Components
-import Cards from 'components/Cards'
+import Competitions from 'components/Competitions'
+
+// Selectors
+import useSelectCompetitions from 'selectors/useSelectCompetitions'
+
+// Actions
+import { Actions } from 'sagas/data'
 
 // Styled
 import { Container } from './styled'
 
-// Types
-import { RootState } from 'store'
-import { useDispatch, useSelector } from 'react-redux'
-import { useEffect } from 'react'
-import { Actions } from 'sagas/data'
-
 function Main() {
   const dispatch = useDispatch()
-
-  const data = useSelector((state: RootState) => state.data.data)
+  const competitions = useSelectCompetitions()
 
   useEffect(() => {
     dispatch(Actions.fetchData())
@@ -21,7 +23,7 @@ function Main() {
 
   return (
     <Container>
-      <Cards data={data}/>
+      <Competitions competitions={competitions}/>
     </Container>
   )
 }

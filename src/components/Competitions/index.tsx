@@ -2,19 +2,19 @@
 import Card from 'components/Card'
 
 // Types
-import { Item } from 'store/data'
+import { Competition } from 'store/data'
 
 // Styled
 import { Container } from './styled'
 
 interface Props {
-  data: Record<string, Item>
+  competitions: Record<string, Competition>
 }
 
-function Cards({ data }: Props) {
+function Competitions({ competitions }: Props) {
   return (
     <Container>
-      {Object.entries(data).map(([id, rest], index) => (
+      {Object.entries(competitions).map(([id, rest], index) => (
         <Card
           id={id}
           {...rest}
@@ -25,4 +25,4 @@ function Cards({ data }: Props) {
   )
 }
 
-export default Cards
+export default Competitions

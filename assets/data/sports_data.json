@@ -1,1402 +1,2620 @@
 [
     {
-        "id": "7f192179-876f-4c38-9f27-3c9e442ff9ef",
-        "sport": "Formula 1",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor J",
-        "bets": 242
-    },
-    {
-        "id": "d0ed990d-384a-4cf5-883c-3ff86c39ad74",
-        "sport": "Basketball",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 117
-    },
-    {
-        "id": "c30f5cab-479b-491c-935f-bdec0192b9ea",
-        "sport": "Golf",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor I",
-        "bets": 46
-    },
-    {
-        "id": "e03c7835-ba7e-40cf-9917-408431e268b9",
-        "sport": "Skiing",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor J",
-        "bets": 167
-    },
-    {
-        "id": "23ddaf0d-57cb-4ce5-b79e-758a0e709424",
-        "sport": "Cricket",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor J",
-        "bets": 53
-    },
-    {
-        "id": "12b0e7d4-6abd-4743-b31b-9662a4d1203f",
-        "sport": "Volleyball",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor I",
-        "bets": 245
-    },
-    {
-        "id": "579fb147-a9c0-48a0-8c72-ece1808025d4",
+        "id": "604a1b17-c900-46f4-9b29-97efa5536254",
         "sport": "Tennis",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor H",
-        "bets": 119
+        "competitors": [
+            {
+                "name": "Viktor Axelsen",
+                "bets": 3485
+            },
+            {
+                "name": "Serena Williams",
+                "bets": 2733
+            }
+        ]
     },
     {
-        "id": "dee59629-3390-437e-bed2-188a8fbb795e",
-        "sport": "Badminton",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor J",
-        "bets": 211
-    },
-    {
-        "id": "953719fe-44bf-4f95-ac50-0c67acfd8913",
-        "sport": "Formula 1",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor G",
-        "bets": 272
-    },
-    {
-        "id": "4d8dd21c-7f37-4779-bd4b-8a41f17e5af5",
-        "sport": "Volleyball",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor G",
-        "bets": 108
-    },
-    {
-        "id": "33d4307c-32d7-4f58-9535-849c3bdb22c4",
-        "sport": "MMA",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor I",
-        "bets": 267
-    },
-    {
-        "id": "88d6b35b-73e4-4c97-b605-5d8d0213f123",
-        "sport": "Baseball",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor I",
-        "bets": 251
-    },
-    {
-        "id": "6c5ad57a-ab52-4989-9c90-12995df3181e",
-        "sport": "Hockey",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 276
-    },
-    {
-        "id": "acef491a-2ac5-4b8c-ac06-105057bf65e2",
-        "sport": "Cricket",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 170
-    },
-    {
-        "id": "2398146e-0acc-49a3-b876-6acb962f7c04",
-        "sport": "Soccer",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor I",
-        "bets": 171
-    },
-    {
-        "id": "f6c71593-8170-4348-a7f5-e5611e70bb72",
-        "sport": "Swimming",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor J",
-        "bets": 284
-    },
-    {
-        "id": "493e28d8-bf19-4e04-a33f-68bdd8f0d134",
-        "sport": "Badminton",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor G",
-        "bets": 241
-    },
-    {
-        "id": "d4cb50dc-302c-408e-9154-4c0bd6986128",
+        "id": "bd198ced-b07c-4836-be6d-0cd8a4e4621b",
         "sport": "Table Tennis",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor G",
-        "bets": 47
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 3367
+            },
+            {
+                "name": "Viktor Axelsen",
+                "bets": 9783
+            }
+        ]
     },
     {
-        "id": "6b7eecca-8145-4cd9-9c0b-dc32cd499cf5",
+        "id": "4957bf81-2656-4b34-8b02-b49da0b0559c",
+        "sport": "Badminton",
+        "competitors": [
+            {
+                "name": "Liu Shiwen",
+                "bets": 2172
+            },
+            {
+                "name": "Serena Williams",
+                "bets": 2109
+            }
+        ]
+    },
+    {
+        "id": "db40454e-432a-4d01-b890-7c71372092b0",
+        "sport": "Squash",
+        "competitors": [
+            {
+                "name": "Tyson Fury",
+                "bets": 2545
+            },
+            {
+                "name": "Team USA",
+                "bets": 4206
+            }
+        ]
+    },
+    {
+        "id": "7d6bee49-5449-460d-99c4-97419b165470",
+        "sport": "Boxing",
+        "competitors": [
+            {
+                "name": "Raneem El Welily",
+                "bets": 8253
+            },
+            {
+                "name": "Kento Momota",
+                "bets": 6823
+            }
+        ]
+    },
+    {
+        "id": "7a06d330-31c1-4bc3-93d5-04d11f17a64f",
+        "sport": "Kickboxing",
+        "competitors": [
+            {
+                "name": "Carolina Marin",
+                "bets": 8145
+            },
+            {
+                "name": "Xu Xin",
+                "bets": 3763
+            }
+        ]
+    },
+    {
+        "id": "5fc930bc-d5b8-4c3b-902f-35112935008b",
+        "sport": "Fencing",
+        "competitors": [
+            {
+                "name": "Roger Federer",
+                "bets": 4051
+            },
+            {
+                "name": "Raneem El Welily",
+                "bets": 4355
+            }
+        ]
+    },
+    {
+        "id": "51c6d332-039e-41b5-b2aa-27e9cc2d9998",
+        "sport": "Judo",
+        "competitors": [
+            {
+                "name": "Ali Farag",
+                "bets": 7212
+            },
+            {
+                "name": "Ma Long",
+                "bets": 7836
+            }
+        ]
+    },
+    {
+        "id": "fb120b9b-844c-4148-b6ac-6a18c5f634ef",
+        "sport": "Taekwondo",
+        "competitors": [
+            {
+                "name": "Mohamed El Shorbagy",
+                "bets": 2232
+            },
+            {
+                "name": "Ding Ning",
+                "bets": 3054
+            }
+        ]
+    },
+    {
+        "id": "d4f48b6f-4277-405d-bcc2-0af7c565ecca",
+        "sport": "Freestyle Wrestling",
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 4920
+            },
+            {
+                "name": "Tyson Fury",
+                "bets": 8755
+            }
+        ]
+    },
+    {
+        "id": "55311604-424a-4b08-8d36-94f846064a87",
+        "sport": "Greco-Roman Wrestling",
+        "competitors": [
+            {
+                "name": "Devon Larratt",
+                "bets": 6437
+            },
+            {
+                "name": "Team USA",
+                "bets": 376
+            }
+        ]
+    },
+    {
+        "id": "e393ccf4-692a-4a5f-b1de-6464952aca55",
+        "sport": "Chess",
+        "competitors": [
+            {
+                "name": "Denis Cyplenkov",
+                "bets": 6437
+            },
+            {
+                "name": "Novak Djokovic",
+                "bets": 4343
+            }
+        ]
+    },
+    {
+        "id": "4e5cf159-594e-41af-94d1-7b513ad157ad",
+        "sport": "Billiards",
+        "competitors": [
+            {
+                "name": "Carolina Marin",
+                "bets": 1415
+            },
+            {
+                "name": "Carolina Marin",
+                "bets": 9303
+            }
+        ]
+    },
+    {
+        "id": "e2d297a0-ec59-4f55-8b6a-3b3b01e458b0",
+        "sport": "Ping Pong (1v1 Volleyball)",
+        "competitors": [
+            {
+                "name": "Fabiano Caruana",
+                "bets": 990
+            },
+            {
+                "name": "Liu Shiwen",
+                "bets": 8579
+            }
+        ]
+    },
+    {
+        "id": "b97d347f-ab8d-4164-b99e-abbfab1b1160",
+        "sport": "Snooker",
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 9087
+            },
+            {
+                "name": "Ian Nepomniachtchi",
+                "bets": 8449
+            }
+        ]
+    },
+    {
+        "id": "951c6b22-8120-4c9a-904f-a693b3c1868f",
+        "sport": "Golf (Match Play)",
+        "competitors": [
+            {
+                "name": "Serena Williams",
+                "bets": 1705
+            },
+            {
+                "name": "Raneem El Welily",
+                "bets": 9580
+            }
+        ]
+    },
+    {
+        "id": "e2d27030-6af9-41ad-8c43-2415e73f9871",
+        "sport": "Arm Wrestling",
+        "competitors": [
+            {
+                "name": "Viktor Axelsen",
+                "bets": 2760
+            },
+            {
+                "name": "Ding Ning",
+                "bets": 1289
+            }
+        ]
+    },
+    {
+        "id": "23d20658-53b8-431b-9ac7-bbac6680a27a",
         "sport": "Tennis",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor F",
-        "bets": 166
+        "competitors": [
+            {
+                "name": "Tyson Fury",
+                "bets": 2377
+            },
+            {
+                "name": "Raneem El Welily",
+                "bets": 6098
+            }
+        ]
     },
     {
-        "id": "f64137c3-eebd-41ef-b6fc-7add43fac1f2",
-        "sport": "Skiing",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor G",
-        "bets": 49
+        "id": "dd412039-4049-4489-9375-cb3dd8682410",
+        "sport": "Table Tennis",
+        "competitors": [
+            {
+                "name": "Denis Cyplenkov",
+                "bets": 687
+            },
+            {
+                "name": "Magnus Carlsen",
+                "bets": 2575
+            }
+        ]
     },
     {
-        "id": "c2657df7-1b8c-4949-ab3b-fdf127be5e46",
-        "sport": "Volleyball",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor G",
-        "bets": 150
+        "id": "22661370-e539-454f-9ffd-46e81fd99fa1",
+        "sport": "Badminton",
+        "competitors": [
+            {
+                "name": "Rafael Nadal",
+                "bets": 231
+            },
+            {
+                "name": "Tyson Fury",
+                "bets": 4251
+            }
+        ]
     },
     {
-        "id": "77757669-97e5-4bee-9447-18e54ce9c663",
-        "sport": "Volleyball",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor J",
-        "bets": 214
+        "id": "980f0d95-bd4f-4705-9d6a-64e4cccae753",
+        "sport": "Squash",
+        "competitors": [
+            {
+                "name": "Tyson Fury",
+                "bets": 6972
+            },
+            {
+                "name": "Ma Long",
+                "bets": 9772
+            }
+        ]
     },
     {
-        "id": "5e0d1579-7254-43aa-ada0-d4100f0e9e81",
-        "sport": "MMA",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor G",
-        "bets": 195
+        "id": "ec5b9a82-ef18-4b2a-a549-ec53431864da",
+        "sport": "Boxing",
+        "competitors": [
+            {
+                "name": "Magnus Carlsen",
+                "bets": 3089
+            },
+            {
+                "name": "PV Sindhu",
+                "bets": 307
+            }
+        ]
     },
     {
-        "id": "8fcf73ed-1f10-4ff6-b3f6-a6b599e22932",
-        "sport": "Cycling",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor H",
-        "bets": 30
+        "id": "7dc5457b-5d50-4536-8455-3c7b86efe8db",
+        "sport": "Kickboxing",
+        "competitors": [
+            {
+                "name": "Rafael Nadal",
+                "bets": 5384
+            },
+            {
+                "name": "Deontay Wilder",
+                "bets": 2002
+            }
+        ]
     },
     {
-        "id": "f4b4e268-fcb1-4d40-99f5-a2257d146a7a",
-        "sport": "Baseball",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor I",
-        "bets": 173
+        "id": "a07ab606-aeab-4f1c-9e10-a6f8de4b3083",
+        "sport": "Fencing",
+        "competitors": [
+            {
+                "name": "Viktor Axelsen",
+                "bets": 8504
+            },
+            {
+                "name": "Novak Djokovic",
+                "bets": 8320
+            }
+        ]
     },
     {
-        "id": "b0d0122b-0ccf-4bb9-86de-30707b49b55e",
+        "id": "ad4ae311-c3f1-4fde-ba54-e83d556949f0",
+        "sport": "Judo",
+        "competitors": [
+            {
+                "name": "Canelo Alvarez",
+                "bets": 3845
+            },
+            {
+                "name": "Naomi Osaka",
+                "bets": 9795
+            }
+        ]
+    },
+    {
+        "id": "bdec0fa7-b58a-4d95-9577-b77b0b34763e",
+        "sport": "Taekwondo",
+        "competitors": [
+            {
+                "name": "Devon Larratt",
+                "bets": 6242
+            },
+            {
+                "name": "Deontay Wilder",
+                "bets": 5695
+            }
+        ]
+    },
+    {
+        "id": "5b58bec5-05d4-46d5-8be3-255b09c486ca",
+        "sport": "Freestyle Wrestling",
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 2184
+            },
+            {
+                "name": "Mohamed El Shorbagy",
+                "bets": 7803
+            }
+        ]
+    },
+    {
+        "id": "bc09c783-f509-4ae1-a4f8-722235eedd2e",
+        "sport": "Greco-Roman Wrestling",
+        "competitors": [
+            {
+                "name": "Novak Djokovic",
+                "bets": 7017
+            },
+            {
+                "name": "Team USA",
+                "bets": 5794
+            }
+        ]
+    },
+    {
+        "id": "32d6b1ac-f633-4bc3-a097-ec833f47c72f",
+        "sport": "Chess",
+        "competitors": [
+            {
+                "name": "Novak Djokovic",
+                "bets": 243
+            },
+            {
+                "name": "Roger Federer",
+                "bets": 6622
+            }
+        ]
+    },
+    {
+        "id": "c870a627-1618-4ecd-9aa5-55cb404b6dc7",
+        "sport": "Billiards",
+        "competitors": [
+            {
+                "name": "Ian Nepomniachtchi",
+                "bets": 1647
+            },
+            {
+                "name": "Anthony Joshua",
+                "bets": 388
+            }
+        ]
+    },
+    {
+        "id": "e6bc929c-37ac-460e-ac1b-6d637957e56a",
+        "sport": "Ping Pong (1v1 Volleyball)",
+        "competitors": [
+            {
+                "name": "Devon Larratt",
+                "bets": 7972
+            },
+            {
+                "name": "Mohamed El Shorbagy",
+                "bets": 2745
+            }
+        ]
+    },
+    {
+        "id": "44abe1e6-0a44-4b44-b9fd-da1d3f7e14f2",
+        "sport": "Snooker",
+        "competitors": [
+            {
+                "name": "Naomi Osaka",
+                "bets": 2732
+            },
+            {
+                "name": "PV Sindhu",
+                "bets": 6394
+            }
+        ]
+    },
+    {
+        "id": "0e37896e-89d3-4cb7-9de1-eb6c5a98e80e",
+        "sport": "Golf (Match Play)",
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 9627
+            },
+            {
+                "name": "Raneem El Welily",
+                "bets": 8726
+            }
+        ]
+    },
+    {
+        "id": "a3505d0f-73b5-4de7-ac40-46ee23468f1a",
+        "sport": "Arm Wrestling",
+        "competitors": [
+            {
+                "name": "Tyson Fury",
+                "bets": 9426
+            },
+            {
+                "name": "Hikaru Nakamura",
+                "bets": 9512
+            }
+        ]
+    },
+    {
+        "id": "0bff8e7f-d6b8-415f-a74a-77664441efa7",
         "sport": "Tennis",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor F",
-        "bets": 242
+        "competitors": [
+            {
+                "name": "Novak Djokovic",
+                "bets": 5429
+            },
+            {
+                "name": "Team USA",
+                "bets": 5992
+            }
+        ]
     },
     {
-        "id": "3bd906a0-2c90-49a9-b06f-2d219ca6f838",
-        "sport": "Basketball",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor J",
-        "bets": 20
-    },
-    {
-        "id": "a94f2a9e-0d8d-42da-ba29-ea0021a0dbe0",
-        "sport": "Cricket",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor F",
-        "bets": 60
-    },
-    {
-        "id": "d3d0814f-2eea-4b82-b788-b2776c00b62a",
+        "id": "0aaaa32b-5fa8-432c-b23a-35fb5934f2d6",
         "sport": "Table Tennis",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 142
+        "competitors": [
+            {
+                "name": "Fabiano Caruana",
+                "bets": 9906
+            },
+            {
+                "name": "Fabiano Caruana",
+                "bets": 4401
+            }
+        ]
     },
     {
-        "id": "2fc6ae71-acf1-49d7-8464-c6a907cfeabc",
-        "sport": "Skiing",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor I",
-        "bets": 157
-    },
-    {
-        "id": "1ce66899-4d46-461c-9f6c-b1341a6c8b73",
+        "id": "97c58c87-9f73-4bfc-9cf0-e382da2cdeda",
         "sport": "Badminton",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor H",
-        "bets": 203
+        "competitors": [
+            {
+                "name": "Ian Nepomniachtchi",
+                "bets": 9059
+            },
+            {
+                "name": "Team USA",
+                "bets": 4011
+            }
+        ]
     },
     {
-        "id": "ca60d1c9-a752-4260-9dad-5738fe1f2314",
-        "sport": "Soccer",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor F",
-        "bets": 204
+        "id": "affd5043-4618-4ab6-aa5a-1ac117b59d0e",
+        "sport": "Squash",
+        "competitors": [
+            {
+                "name": "Liu Shiwen",
+                "bets": 8230
+            },
+            {
+                "name": "Devon Larratt",
+                "bets": 3920
+            }
+        ]
     },
     {
-        "id": "0e67457b-1ed1-40b1-9ceb-56a45de5bff5",
-        "sport": "Formula 1",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor I",
-        "bets": 123
-    },
-    {
-        "id": "5b69eeff-8d83-4f7a-9698-0ce8beb3959f",
-        "sport": "Cricket",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor J",
-        "bets": 181
-    },
-    {
-        "id": "293da25f-66fe-4c79-8b19-40c67d679c2a",
-        "sport": "Swimming",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor I",
-        "bets": 173
-    },
-    {
-        "id": "327c7c12-4ae8-454f-add7-33d0ff004aa3",
-        "sport": "MMA",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor H",
-        "bets": 175
-    },
-    {
-        "id": "f96a7bc9-0c7d-4b51-8ae5-ce03f285995e",
-        "sport": "Table Tennis",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 163
-    },
-    {
-        "id": "f4282f93-a5b4-4bf7-af87-8f2e83d1b846",
-        "sport": "Skiing",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor G",
-        "bets": 178
-    },
-    {
-        "id": "1fbe744f-b0a6-4ca0-a24c-0a34ffabac49",
-        "sport": "Soccer",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor F",
-        "bets": 254
-    },
-    {
-        "id": "f439258b-7ae6-4e63-9a75-49d6c8826d28",
-        "sport": "Baseball",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor I",
-        "bets": 226
-    },
-    {
-        "id": "57c691b3-551c-4d9b-a9d0-736a765b7b5f",
+        "id": "cf664a59-f71d-40fd-bef0-42ccd9d6eac1",
         "sport": "Boxing",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor G",
-        "bets": 110
+        "competitors": [
+            {
+                "name": "Naomi Osaka",
+                "bets": 7931
+            },
+            {
+                "name": "Team Europe",
+                "bets": 2203
+            }
+        ]
     },
     {
-        "id": "bc1b9fe3-cc03-450c-97ca-c53ff86c21e9",
-        "sport": "Rugby",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor H",
-        "bets": 167
+        "id": "b1c8b934-827b-458e-90e5-caf93d6faf91",
+        "sport": "Kickboxing",
+        "competitors": [
+            {
+                "name": "Xu Xin",
+                "bets": 9906
+            },
+            {
+                "name": "Mohamed El Shorbagy",
+                "bets": 4366
+            }
+        ]
     },
     {
-        "id": "e9cd7b87-39a8-46df-afc2-fe2f3999fd13",
-        "sport": "Swimming",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor J",
-        "bets": 224
+        "id": "6d309b73-625b-4668-ae26-650616f7e551",
+        "sport": "Fencing",
+        "competitors": [
+            {
+                "name": "Team USA",
+                "bets": 3823
+            },
+            {
+                "name": "Naomi Osaka",
+                "bets": 884
+            }
+        ]
     },
     {
-        "id": "df376e4d-862e-4365-af46-b47d62a8761f",
-        "sport": "Baseball",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor I",
-        "bets": 248
+        "id": "e0104535-7379-4b17-97c3-2816e409fd27",
+        "sport": "Judo",
+        "competitors": [
+            {
+                "name": "Mohamed El Shorbagy",
+                "bets": 3306
+            },
+            {
+                "name": "Carolina Marin",
+                "bets": 8365
+            }
+        ]
     },
     {
-        "id": "6c8da60f-5fbd-49e4-92ba-ffd57c82ae8a",
-        "sport": "Skiing",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor F",
-        "bets": 271
+        "id": "805f1eb8-0f97-4a0b-9362-0f9d67915038",
+        "sport": "Taekwondo",
+        "competitors": [
+            {
+                "name": "Canelo Alvarez",
+                "bets": 1324
+            },
+            {
+                "name": "Magnus Carlsen",
+                "bets": 4204
+            }
+        ]
     },
     {
-        "id": "70299298-9e05-4480-bafa-15ddba2a551a",
+        "id": "816ec34e-6b8f-4a94-8c63-3497b5e0bb24",
+        "sport": "Freestyle Wrestling",
+        "competitors": [
+            {
+                "name": "Devon Larratt",
+                "bets": 3680
+            },
+            {
+                "name": "Denis Cyplenkov",
+                "bets": 2260
+            }
+        ]
+    },
+    {
+        "id": "d90ec049-1878-4dd8-b434-9c9b5296fc77",
+        "sport": "Greco-Roman Wrestling",
+        "competitors": [
+            {
+                "name": "Roger Federer",
+                "bets": 3889
+            },
+            {
+                "name": "Roger Federer",
+                "bets": 1965
+            }
+        ]
+    },
+    {
+        "id": "6ff3fe52-532a-4da6-9431-e5a153a4187c",
+        "sport": "Chess",
+        "competitors": [
+            {
+                "name": "Mohamed El Shorbagy",
+                "bets": 4983
+            },
+            {
+                "name": "Tyson Fury",
+                "bets": 2198
+            }
+        ]
+    },
+    {
+        "id": "ea82662f-9eff-4a26-a412-0390ef69f2a8",
+        "sport": "Billiards",
+        "competitors": [
+            {
+                "name": "Rafael Nadal",
+                "bets": 9366
+            },
+            {
+                "name": "Ali Farag",
+                "bets": 2039
+            }
+        ]
+    },
+    {
+        "id": "08adef1a-8fdc-41f8-8c66-288448b37bae",
+        "sport": "Ping Pong (1v1 Volleyball)",
+        "competitors": [
+            {
+                "name": "Fabiano Caruana",
+                "bets": 2370
+            },
+            {
+                "name": "Magnus Carlsen",
+                "bets": 5336
+            }
+        ]
+    },
+    {
+        "id": "793ee82a-1b3f-48a9-b44f-e3660b4a6719",
+        "sport": "Snooker",
+        "competitors": [
+            {
+                "name": "Viktor Axelsen",
+                "bets": 9257
+            },
+            {
+                "name": "Ma Long",
+                "bets": 9332
+            }
+        ]
+    },
+    {
+        "id": "9f1bdc22-29d6-4d63-8af0-7de08659d813",
+        "sport": "Golf (Match Play)",
+        "competitors": [
+            {
+                "name": "Ding Ning",
+                "bets": 9342
+            },
+            {
+                "name": "Raneem El Welily",
+                "bets": 545
+            }
+        ]
+    },
+    {
+        "id": "52ffa39f-abcc-4ce3-bd33-1abb13b3f477",
+        "sport": "Arm Wrestling",
+        "competitors": [
+            {
+                "name": "Simona Halep",
+                "bets": 8527
+            },
+            {
+                "name": "Rafael Nadal",
+                "bets": 8669
+            }
+        ]
+    },
+    {
+        "id": "33d12c29-0438-43f5-93ae-b3d094418cd2",
         "sport": "Tennis",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor G",
-        "bets": 207
+        "competitors": [
+            {
+                "name": "Tyson Fury",
+                "bets": 7955
+            },
+            {
+                "name": "Hikaru Nakamura",
+                "bets": 3262
+            }
+        ]
     },
     {
-        "id": "84b5f917-5229-495a-ad79-d95c9671d6bd",
+        "id": "ae65b4f8-a241-4b4e-87e0-e5a53594f738",
+        "sport": "Table Tennis",
+        "competitors": [
+            {
+                "name": "PV Sindhu",
+                "bets": 4617
+            },
+            {
+                "name": "Raneem El Welily",
+                "bets": 2862
+            }
+        ]
+    },
+    {
+        "id": "8c91a152-88d1-45e4-b181-de7cd9d14a00",
         "sport": "Badminton",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor F",
-        "bets": 117
+        "competitors": [
+            {
+                "name": "Rafael Nadal",
+                "bets": 5987
+            },
+            {
+                "name": "Mohamed El Shorbagy",
+                "bets": 2436
+            }
+        ]
     },
     {
-        "id": "242a5bfe-9634-4d34-892a-24ab4ecb4fcb",
-        "sport": "Baseball",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor H",
-        "bets": 191
+        "id": "a29e4065-07bf-4467-a9dc-63a1775787de",
+        "sport": "Squash",
+        "competitors": [
+            {
+                "name": "Kento Momota",
+                "bets": 8022
+            },
+            {
+                "name": "Devon Larratt",
+                "bets": 7040
+            }
+        ]
     },
     {
-        "id": "56c34a5d-6c34-49d6-85b1-6f3882c892d0",
-        "sport": "Basketball",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor I",
-        "bets": 267
-    },
-    {
-        "id": "b437614b-e662-48a7-a86d-0f195a1e601b",
-        "sport": "Badminton",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor H",
-        "bets": 146
-    },
-    {
-        "id": "317b69d8-d007-4180-8122-1f8abea02ff5",
-        "sport": "MMA",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor F",
-        "bets": 149
-    },
-    {
-        "id": "a4f20ac5-74b1-4ef2-ab8e-8f969cbe4933",
+        "id": "ca661d64-53a1-43a2-b807-a6389fda8c7a",
         "sport": "Boxing",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor G",
-        "bets": 217
+        "competitors": [
+            {
+                "name": "Liu Shiwen",
+                "bets": 9334
+            },
+            {
+                "name": "Nour El Sherbini",
+                "bets": 3315
+            }
+        ]
     },
     {
-        "id": "10b0199c-8cc8-4f43-9803-c32dd18a2b62",
-        "sport": "Cricket",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor H",
-        "bets": 293
+        "id": "f751f596-6bf5-4f71-83c6-5c5e1ee0e9a3",
+        "sport": "Kickboxing",
+        "competitors": [
+            {
+                "name": "Denis Cyplenkov",
+                "bets": 8552
+            },
+            {
+                "name": "Fabiano Caruana",
+                "bets": 5773
+            }
+        ]
     },
     {
-        "id": "5651df98-43d3-446d-b984-40237bed349d",
-        "sport": "Badminton",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 115
+        "id": "aa1a3eb3-14e9-43d3-86c0-a5770d7eef09",
+        "sport": "Fencing",
+        "competitors": [
+            {
+                "name": "Roger Federer",
+                "bets": 2459
+            },
+            {
+                "name": "Fabiano Caruana",
+                "bets": 4482
+            }
+        ]
     },
     {
-        "id": "f55fa2e6-8094-4c4d-b968-89819c5c70e1",
-        "sport": "Basketball",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor H",
-        "bets": 49
+        "id": "a1261c5b-0c48-45e7-ae4c-7404b4e03a94",
+        "sport": "Judo",
+        "competitors": [
+            {
+                "name": "Team Europe",
+                "bets": 1233
+            },
+            {
+                "name": "Nour El Sherbini",
+                "bets": 6934
+            }
+        ]
     },
     {
-        "id": "8091190f-0ae3-4c7f-8658-968bca072410",
-        "sport": "Rugby",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor J",
-        "bets": 182
+        "id": "b0decbd3-322d-45dc-96ef-3cf2cd7013b5",
+        "sport": "Taekwondo",
+        "competitors": [
+            {
+                "name": "Team USA",
+                "bets": 304
+            },
+            {
+                "name": "Rafael Nadal",
+                "bets": 450
+            }
+        ]
     },
     {
-        "id": "e264dacb-53b3-4a89-9439-30f58d17c014",
-        "sport": "Surfing",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor J",
-        "bets": 97
+        "id": "5752e35d-b25f-4d8a-ab21-b2d7e879f28e",
+        "sport": "Freestyle Wrestling",
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 9867
+            },
+            {
+                "name": "Roger Federer",
+                "bets": 5092
+            }
+        ]
     },
     {
-        "id": "2a162510-6a68-4e85-832e-0864f8fb35da",
+        "id": "2843ceb3-6ab1-49ae-9bd4-edfb461d894a",
+        "sport": "Greco-Roman Wrestling",
+        "competitors": [
+            {
+                "name": "Roger Federer",
+                "bets": 4826
+            },
+            {
+                "name": "Kento Momota",
+                "bets": 4902
+            }
+        ]
+    },
+    {
+        "id": "de4e1645-348b-4c69-a606-605e70910a56",
+        "sport": "Chess",
+        "competitors": [
+            {
+                "name": "Raneem El Welily",
+                "bets": 7940
+            },
+            {
+                "name": "Novak Djokovic",
+                "bets": 3964
+            }
+        ]
+    },
+    {
+        "id": "978224d1-1794-4cd6-beb3-9a5c4cdd6188",
+        "sport": "Billiards",
+        "competitors": [
+            {
+                "name": "Fabiano Caruana",
+                "bets": 4210
+            },
+            {
+                "name": "Ding Ning",
+                "bets": 7169
+            }
+        ]
+    },
+    {
+        "id": "007b45ac-9f74-4ca6-a7f0-a25e3fd1948d",
+        "sport": "Ping Pong (1v1 Volleyball)",
+        "competitors": [
+            {
+                "name": "Simona Halep",
+                "bets": 4669
+            },
+            {
+                "name": "Serena Williams",
+                "bets": 9434
+            }
+        ]
+    },
+    {
+        "id": "02306d1b-ffb5-432c-bb78-e46552969753",
         "sport": "Snooker",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor F",
-        "bets": 283
-    },
-    {
-        "id": "5ea5b1fa-1d56-4dc7-9695-a298079fe50f",
-        "sport": "Snooker",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor J",
-        "bets": 150
-    },
-    {
-        "id": "11288d11-b445-4e0c-a188-218f7a99b6cb",
-        "sport": "Table Tennis",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor F",
-        "bets": 269
-    },
-    {
-        "id": "9af06aeb-6771-4981-9d63-20755642e88b",
-        "sport": "Skiing",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor F",
-        "bets": 200
-    },
-    {
-        "id": "bb4e1665-7ac1-49cb-8f93-3eba213a4da3",
-        "sport": "Baseball",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor F",
-        "bets": 105
-    },
-    {
-        "id": "0273a247-2887-4df7-9f90-21b3aa1fa128",
-        "sport": "Cycling",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 227
-    },
-    {
-        "id": "f885e1e1-cf2d-4893-a094-a6c7b1a59e11",
-        "sport": "Volleyball",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor F",
-        "bets": 54
-    },
-    {
-        "id": "6e26bd21-e91f-4b07-9961-1e2d95c5be9a",
-        "sport": "Basketball",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor G",
-        "bets": 123
-    },
-    {
-        "id": "ee61f815-8db8-4ef2-b572-dc75564aeb0d",
-        "sport": "Baseball",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor J",
-        "bets": 188
-    },
-    {
-        "id": "5a12b5a3-2783-4b65-ad71-112da632d6e1",
-        "sport": "Basketball",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 50
-    },
-    {
-        "id": "b7228f43-8e80-492b-8159-f43c80a7ff2d",
-        "sport": "Badminton",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor G",
-        "bets": 88
-    },
-    {
-        "id": "6a089828-253e-4bb3-b61e-3e19b95b756f",
-        "sport": "American Football",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor H",
-        "bets": 273
-    },
-    {
-        "id": "7510f732-e39b-4cd8-b90b-ef80bf99a0b3",
-        "sport": "Golf",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor F",
-        "bets": 68
-    },
-    {
-        "id": "9c5409c9-0697-474a-b031-b68a9c250afc",
-        "sport": "Snooker",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor H",
-        "bets": 265
-    },
-    {
-        "id": "dd3e7226-3851-4c2a-b11e-bea1cef1d209",
-        "sport": "Badminton",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor F",
-        "bets": 91
-    },
-    {
-        "id": "4f5e3277-b0e8-4d2c-b8d7-2e603aa1cfb8",
-        "sport": "Skiing",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor H",
-        "bets": 158
-    },
-    {
-        "id": "be867b92-7a7b-4659-83a8-4abe9a0d465a",
-        "sport": "Hockey",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor G",
-        "bets": 24
-    },
-    {
-        "id": "f81f3014-c4b3-4c0c-a562-ae07be932fec",
-        "sport": "Badminton",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor J",
-        "bets": 193
-    },
-    {
-        "id": "0832986e-e439-474e-929f-135d3a561c33",
-        "sport": "Badminton",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor F",
-        "bets": 251
-    },
-    {
-        "id": "cba29d20-3b82-405c-a5d8-c2a366efefd6",
-        "sport": "American Football",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor I",
-        "bets": 20
-    },
-    {
-        "id": "bd12e979-053a-4a68-bed4-eb9f3c95f2f4",
-        "sport": "Surfing",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor H",
-        "bets": 45
-    },
-    {
-        "id": "ba3726ad-7f46-4e9a-9332-473e9afb14d1",
-        "sport": "Rugby",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor H",
-        "bets": 154
-    },
-    {
-        "id": "136d7a80-9869-428b-acf8-bf999bb96ec4",
-        "sport": "Skiing",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor J",
-        "bets": 223
-    },
-    {
-        "id": "3ebb3dbc-cb43-48bb-9a3d-6aeb170678f5",
-        "sport": "Golf",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor F",
-        "bets": 114
-    },
-    {
-        "id": "59893e7c-b1f3-44a6-80d4-b3bc62fd2619",
-        "sport": "Rugby",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor I",
-        "bets": 58
-    },
-    {
-        "id": "7772c5ba-70d0-401a-99db-2bbdbbedae80",
-        "sport": "Table Tennis",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor J",
-        "bets": 261
-    },
-    {
-        "id": "7f1ff396-6d4d-4b0d-bfc8-743428c70dc3",
-        "sport": "MMA",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor F",
-        "bets": 30
-    },
-    {
-        "id": "d1e188af-7c35-4312-91c2-914bfb6c3033",
-        "sport": "Snooker",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor G",
-        "bets": 97
-    },
-    {
-        "id": "f8ddff24-b3e7-4d01-ace8-d7b4ee3d5e5b",
-        "sport": "Snooker",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor H",
-        "bets": 206
-    },
-    {
-        "id": "74162f12-6bce-4404-8fd6-cb3951470b94",
-        "sport": "Formula 1",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor F",
-        "bets": 86
-    },
-    {
-        "id": "3efff060-035a-4e90-ac93-a6e5577f19f0",
-        "sport": "MMA",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor F",
-        "bets": 150
-    },
-    {
-        "id": "dcbdc3dd-181a-4ed4-8565-007f545be0f3",
-        "sport": "Badminton",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor J",
-        "bets": 50
-    },
-    {
-        "id": "c0f78f74-6a4b-4c62-bdca-c5e82a241403",
-        "sport": "Surfing",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor G",
-        "bets": 57
-    },
-    {
-        "id": "246f7d22-4050-49fc-90ab-60ad8a0d6909",
-        "sport": "American Football",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor H",
-        "bets": 267
-    },
-    {
-        "id": "059463b0-c998-4a1c-9311-5fea14b50e7f",
-        "sport": "Rugby",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 272
-    },
-    {
-        "id": "43ff86c8-3dbb-4e4c-a86b-c2d29f51b0fd",
-        "sport": "Baseball",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor J",
-        "bets": 290
-    },
-    {
-        "id": "dc93e100-7d83-41ac-9405-77b039b6f2af",
-        "sport": "Basketball",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor J",
-        "bets": 68
-    },
-    {
-        "id": "0fa64842-8f16-422b-9aa0-f88bd533a9bb",
-        "sport": "Cricket",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 77
-    },
-    {
-        "id": "361738ab-fe39-41b0-b2a4-81034a15b608",
-        "sport": "Basketball",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor J",
-        "bets": 178
-    },
-    {
-        "id": "639a2b8c-e58b-4a3e-8f4e-e776af55d6a2",
-        "sport": "MMA",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor G",
-        "bets": 207
-    },
-    {
-        "id": "ca56ad75-7bbe-4974-9d1e-a19b1c9a2452",
-        "sport": "Table Tennis",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 211
-    },
-    {
-        "id": "be96ca4c-ff35-4cb6-a317-b722ab497056",
-        "sport": "Hockey",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor I",
-        "bets": 66
-    },
-    {
-        "id": "75affdd8-0c0d-4402-971f-0f91a6cc81e1",
-        "sport": "Cricket",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor G",
-        "bets": 172
-    },
-    {
-        "id": "13a15e5a-0685-4837-beed-e28f9140ad87",
-        "sport": "Rugby",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor F",
-        "bets": 223
-    },
-    {
-        "id": "f52ddbd1-d43d-4a8f-883a-e628004e195a",
-        "sport": "Snooker",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 20
-    },
-    {
-        "id": "0f6aa7b4-4864-4461-8947-1fc994bc2e11",
-        "sport": "Golf",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor F",
-        "bets": 161
-    },
-    {
-        "id": "aed821a3-a317-4a9c-8e2a-5fb7905fc39e",
-        "sport": "Boxing",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor G",
-        "bets": 123
-    },
-    {
-        "id": "5597ffb5-0c6d-419c-b779-29cc1cfd39ba",
-        "sport": "Basketball",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor I",
-        "bets": 128
-    },
-    {
-        "id": "1b4a7309-822f-4776-a570-1f62063e398e",
-        "sport": "Swimming",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor I",
-        "bets": 93
-    },
-    {
-        "id": "8ab92582-c214-4a4f-a92e-2f829740fe40",
-        "sport": "Volleyball",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor H",
-        "bets": 221
-    },
-    {
-        "id": "e54f946d-c224-4bec-9912-2c16b2ecaf55",
-        "sport": "Volleyball",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor J",
-        "bets": 173
-    },
-    {
-        "id": "869a5c87-7f80-4768-9100-73f08a55dec5",
-        "sport": "Badminton",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor H",
-        "bets": 223
-    },
-    {
-        "id": "0a9220ae-e583-4909-b01a-c6b2527810d1",
-        "sport": "Soccer",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor F",
-        "bets": 76
-    },
-    {
-        "id": "8f13a912-c1f0-453a-94a1-95c15cd07cd8",
-        "sport": "Rugby",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 270
-    },
-    {
-        "id": "7ff00e26-59da-4735-bfb3-a01e73133a42",
-        "sport": "Cricket",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor F",
-        "bets": 149
-    },
-    {
-        "id": "c4f29d3e-9878-4337-90f5-e4b8736f978d",
-        "sport": "Badminton",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 265
-    },
-    {
-        "id": "11c58dfd-e038-4e88-8bc4-aaa45f2764be",
-        "sport": "Cycling",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor J",
-        "bets": 76
-    },
-    {
-        "id": "9cfb9bfe-b0a1-4de6-8fc3-79e285008860",
-        "sport": "Surfing",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor J",
-        "bets": 187
-    },
-    {
-        "id": "7d07af93-eca3-4be0-9684-3456590d0315",
-        "sport": "Cycling",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor G",
-        "bets": 219
-    },
-    {
-        "id": "e58b9f41-5e9b-4dcd-9bca-251ff9249fd3",
-        "sport": "Skiing",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor H",
-        "bets": 256
-    },
-    {
-        "id": "f311ed6c-6eb3-421a-b440-8fd01e15f487",
-        "sport": "Skiing",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 214
-    },
-    {
-        "id": "46ab9281-e5df-4aed-a02d-0e8a276eeea7",
-        "sport": "Boxing",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor J",
-        "bets": 300
-    },
-    {
-        "id": "8e33243c-df6f-4a54-8093-dad3ca54cf0b",
-        "sport": "Soccer",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 132
-    },
-    {
-        "id": "73737037-1d30-4082-b408-796c99a3fe53",
-        "sport": "Baseball",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor G",
-        "bets": 167
-    },
-    {
-        "id": "51ea465a-dd51-4bf8-8090-464f9e89ca13",
-        "sport": "Surfing",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor J",
-        "bets": 216
-    },
-    {
-        "id": "45a7e45c-7505-4918-bb25-d433f2f09481",
-        "sport": "American Football",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 254
-    },
-    {
-        "id": "bf0c754c-c24f-42bc-b06b-ea8a944fee00",
-        "sport": "Swimming",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor J",
-        "bets": 227
-    },
-    {
-        "id": "8795d48f-7f62-4020-a771-a19dc2a191b2",
-        "sport": "Snooker",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor I",
-        "bets": 48
-    },
-    {
-        "id": "3de8d8a4-644c-4656-8241-da068114c8bd",
-        "sport": "Baseball",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor H",
-        "bets": 226
-    },
-    {
-        "id": "b7d9ba2d-c7dc-445e-83b6-10935728a819",
-        "sport": "Table Tennis",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor J",
-        "bets": 17
-    },
-    {
-        "id": "4a5d587c-8565-4e0f-9e6b-2654af01b9b2",
-        "sport": "Snooker",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor G",
-        "bets": 29
-    },
-    {
-        "id": "2e30d14c-1ace-4be3-8627-5dbdfad01e0d",
-        "sport": "Badminton",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor I",
-        "bets": 283
-    },
-    {
-        "id": "79450889-6827-400e-b2b7-70fab725fe9f",
-        "sport": "Snooker",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 166
-    },
-    {
-        "id": "b4f76714-173f-4b38-8b75-15efa2945065",
-        "sport": "Swimming",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor I",
-        "bets": 54
-    },
-    {
-        "id": "77ffee8c-0765-4eb5-b945-d43a8fc4636c",
-        "sport": "MMA",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor H",
-        "bets": 146
-    },
-    {
-        "id": "d9c99cf0-1f90-4c44-a36d-c689c71f2202",
-        "sport": "Rugby",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor J",
-        "bets": 87
-    },
-    {
-        "id": "36158c48-b16e-44ac-a8b1-becb5a02980c",
-        "sport": "Cricket",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor G",
-        "bets": 50
-    },
-    {
-        "id": "a7b984d2-b5ac-4075-aa23-974b59b4982a",
-        "sport": "Table Tennis",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor I",
-        "bets": 64
-    },
-    {
-        "id": "800fb81f-4fd2-43a2-9dc4-c183355792ae",
+        "competitors": [
+            {
+                "name": "Raneem El Welily",
+                "bets": 3002
+            },
+            {
+                "name": "Simona Halep",
+                "bets": 9066
+            }
+        ]
+    },
+    {
+        "id": "d2743c4b-fcec-4422-b423-900f65da169a",
+        "sport": "Golf (Match Play)",
+        "competitors": [
+            {
+                "name": "Roger Federer",
+                "bets": 9704
+            },
+            {
+                "name": "Kento Momota",
+                "bets": 3193
+            }
+        ]
+    },
+    {
+        "id": "2f74dc41-b2f3-43f1-8c43-fa2656e4be26",
+        "sport": "Arm Wrestling",
+        "competitors": [
+            {
+                "name": "Liu Shiwen",
+                "bets": 5478
+            },
+            {
+                "name": "Roger Federer",
+                "bets": 9833
+            }
+        ]
+    },
+    {
+        "id": "31bbf15a-7e37-4b27-97f4-e0f475c45989",
         "sport": "Tennis",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor F",
-        "bets": 227
+        "competitors": [
+            {
+                "name": "Serena Williams",
+                "bets": 6041
+            },
+            {
+                "name": "Serena Williams",
+                "bets": 669
+            }
+        ]
     },
     {
-        "id": "2fb218b6-e2dc-454a-a9de-836fc91caeff",
-        "sport": "Volleyball",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor G",
-        "bets": 238
-    },
-    {
-        "id": "f289ee0b-1b41-4a95-879f-b8d86fe20750",
-        "sport": "Formula 1",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor J",
-        "bets": 94
-    },
-    {
-        "id": "59fc1af2-91a6-497a-9e21-304545b61538",
-        "sport": "Tennis",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor J",
-        "bets": 189
-    },
-    {
-        "id": "e559a704-7941-4a06-b87c-23ddd086a0db",
+        "id": "4a2853b5-a4e6-4f53-9a7c-9da489d641bc",
         "sport": "Table Tennis",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor G",
-        "bets": 211
+        "competitors": [
+            {
+                "name": "Carolina Marin",
+                "bets": 8696
+            },
+            {
+                "name": "PV Sindhu",
+                "bets": 4689
+            }
+        ]
     },
     {
-        "id": "40980714-6056-433a-95d5-6da09f04ca2b",
+        "id": "c19b4ce5-b402-4962-bce6-e841f55b3bfe",
         "sport": "Badminton",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor J",
-        "bets": 97
+        "competitors": [
+            {
+                "name": "Devon Larratt",
+                "bets": 6361
+            },
+            {
+                "name": "Fabiano Caruana",
+                "bets": 7891
+            }
+        ]
     },
     {
-        "id": "88f8581d-faaf-4d51-b62d-b640b1840f27",
-        "sport": "Surfing",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor I",
-        "bets": 43
+        "id": "9f845f69-2963-455f-8d1e-5cb73a9c8744",
+        "sport": "Squash",
+        "competitors": [
+            {
+                "name": "Hikaru Nakamura",
+                "bets": 6252
+            },
+            {
+                "name": "Devon Larratt",
+                "bets": 8596
+            }
+        ]
     },
     {
-        "id": "052ce1da-b2e5-4dd5-a635-30c902db318a",
-        "sport": "Cricket",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor H",
-        "bets": 159
+        "id": "eed33d6b-25fd-4681-b29b-573a6d0565c2",
+        "sport": "Boxing",
+        "competitors": [
+            {
+                "name": "Raneem El Welily",
+                "bets": 4397
+            },
+            {
+                "name": "Carolina Marin",
+                "bets": 7271
+            }
+        ]
     },
     {
-        "id": "7087e139-387b-4636-9b6a-d0dfdf758e3a",
-        "sport": "Skiing",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor H",
-        "bets": 216
+        "id": "774ab7a2-c58d-409b-8cff-771fa57b5573",
+        "sport": "Kickboxing",
+        "competitors": [
+            {
+                "name": "Magnus Carlsen",
+                "bets": 6372
+            },
+            {
+                "name": "Serena Williams",
+                "bets": 4376
+            }
+        ]
     },
     {
-        "id": "6953dc7a-cb2e-4c80-8e25-2f0e2ea87957",
-        "sport": "Golf",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor F",
-        "bets": 127
+        "id": "bf4a0f67-080d-4676-bf29-569674a29c3f",
+        "sport": "Fencing",
+        "competitors": [
+            {
+                "name": "Fabiano Caruana",
+                "bets": 2009
+            },
+            {
+                "name": "Team Europe",
+                "bets": 2104
+            }
+        ]
     },
     {
-        "id": "9545dd19-de45-41b1-9bf2-63baf41083c6",
-        "sport": "Volleyball",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor F",
-        "bets": 199
+        "id": "b9997229-5cae-4749-b912-9d4a7fd20691",
+        "sport": "Judo",
+        "competitors": [
+            {
+                "name": "Magnus Carlsen",
+                "bets": 3157
+            },
+            {
+                "name": "Nour El Sherbini",
+                "bets": 408
+            }
+        ]
     },
     {
-        "id": "da4624e4-75a6-46c8-92ab-78c0ce36ff42",
-        "sport": "Formula 1",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor F",
-        "bets": 170
+        "id": "89d6da35-b694-48a1-89d5-db93e5b110bc",
+        "sport": "Taekwondo",
+        "competitors": [
+            {
+                "name": "Team Europe",
+                "bets": 871
+            },
+            {
+                "name": "Canelo Alvarez",
+                "bets": 4564
+            }
+        ]
     },
     {
-        "id": "90d37390-cb14-43b2-b5f8-859390efb278",
-        "sport": "Soccer",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor H",
-        "bets": 278
+        "id": "7983ca78-dbd7-4f1c-a6af-903f9cbf1eb2",
+        "sport": "Freestyle Wrestling",
+        "competitors": [
+            {
+                "name": "Mohamed El Shorbagy",
+                "bets": 3235
+            },
+            {
+                "name": "Mohamed El Shorbagy",
+                "bets": 3098
+            }
+        ]
     },
     {
-        "id": "8af3af06-7958-4d54-bf8b-2070a1903dd0",
-        "sport": "Skiing",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor I",
-        "bets": 86
+        "id": "cba01910-73b8-417f-9cfa-6bfc4a460713",
+        "sport": "Greco-Roman Wrestling",
+        "competitors": [
+            {
+                "name": "Team USA",
+                "bets": 3827
+            },
+            {
+                "name": "Tyson Fury",
+                "bets": 7103
+            }
+        ]
     },
     {
-        "id": "d3cb0b44-879e-4731-a371-e09fd33b4f6c",
-        "sport": "Table Tennis",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor H",
-        "bets": 212
+        "id": "8db5640c-ba07-4d2c-96c7-6a7b68bdbb30",
+        "sport": "Chess",
+        "competitors": [
+            {
+                "name": "Simona Halep",
+                "bets": 5052
+            },
+            {
+                "name": "Nour El Sherbini",
+                "bets": 4728
+            }
+        ]
     },
     {
-        "id": "213077ec-e8ca-46de-ab74-994bec8564e5",
-        "sport": "Formula 1",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 134
+        "id": "465434c1-5701-4677-8389-a4090f6d8e9e",
+        "sport": "Billiards",
+        "competitors": [
+            {
+                "name": "Fabiano Caruana",
+                "bets": 2321
+            },
+            {
+                "name": "Ali Farag",
+                "bets": 9756
+            }
+        ]
     },
     {
-        "id": "eaa38548-fbea-4ec8-a77d-2fc348d63bfa",
-        "sport": "Surfing",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor J",
-        "bets": 120
+        "id": "47d2a240-ce08-468f-ad77-c8410ee1d1e8",
+        "sport": "Ping Pong (1v1 Volleyball)",
+        "competitors": [
+            {
+                "name": "Simona Halep",
+                "bets": 496
+            },
+            {
+                "name": "Canelo Alvarez",
+                "bets": 1209
+            }
+        ]
     },
     {
-        "id": "80ecdfb4-6975-4a03-b94f-e2cb04d30bf7",
-        "sport": "Volleyball",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor I",
-        "bets": 22
-    },
-    {
-        "id": "fc2238f6-758d-4844-9850-a113251ef685",
-        "sport": "Formula 1",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor F",
-        "bets": 176
-    },
-    {
-        "id": "b4f318ea-5e22-4a1c-b33f-1654854132c6",
+        "id": "8472f4c7-7ffc-447f-babf-d78ac0aeea12",
         "sport": "Snooker",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor F",
-        "bets": 171
+        "competitors": [
+            {
+                "name": "PV Sindhu",
+                "bets": 1424
+            },
+            {
+                "name": "Novak Djokovic",
+                "bets": 1888
+            }
+        ]
     },
     {
-        "id": "ee08590a-7da9-4a2d-a1b3-64ad5d3a57e8",
-        "sport": "Formula 1",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor F",
-        "bets": 40
+        "id": "ca39581a-6b9b-401e-b7ff-2a532db01020",
+        "sport": "Golf (Match Play)",
+        "competitors": [
+            {
+                "name": "Raneem El Welily",
+                "bets": 9755
+            },
+            {
+                "name": "Simona Halep",
+                "bets": 4356
+            }
+        ]
     },
     {
-        "id": "252fcaeb-d82c-47a9-af02-1a55d667c1a4",
+        "id": "2713c179-e653-4024-ad0a-5620eddfc941",
+        "sport": "Arm Wrestling",
+        "competitors": [
+            {
+                "name": "Ali Farag",
+                "bets": 723
+            },
+            {
+                "name": "Kento Momota",
+                "bets": 6976
+            }
+        ]
+    },
+    {
+        "id": "cb427e46-fe43-419a-9723-a34eb25c8e9e",
+        "sport": "Tennis",
+        "competitors": [
+            {
+                "name": "Hikaru Nakamura",
+                "bets": 8330
+            },
+            {
+                "name": "Novak Djokovic",
+                "bets": 4784
+            }
+        ]
+    },
+    {
+        "id": "7e566d8c-ae47-4e7a-9ee3-164777e3b2f5",
         "sport": "Table Tennis",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor J",
-        "bets": 186
+        "competitors": [
+            {
+                "name": "Serena Williams",
+                "bets": 3198
+            },
+            {
+                "name": "Magnus Carlsen",
+                "bets": 1608
+            }
+        ]
     },
     {
-        "id": "f7594fd3-a8f5-486b-8667-f86e8c6d9e5f",
+        "id": "b3ac8f6d-35cc-4513-9178-fa0528834f41",
+        "sport": "Badminton",
+        "competitors": [
+            {
+                "name": "Liu Shiwen",
+                "bets": 118
+            },
+            {
+                "name": "Liu Shiwen",
+                "bets": 5944
+            }
+        ]
+    },
+    {
+        "id": "65913877-749b-4bf2-8551-f6bfadcc4b0f",
+        "sport": "Squash",
+        "competitors": [
+            {
+                "name": "Fabiano Caruana",
+                "bets": 3362
+            },
+            {
+                "name": "Carolina Marin",
+                "bets": 458
+            }
+        ]
+    },
+    {
+        "id": "7e602d88-4e93-4beb-a3e9-e0d950761d3f",
         "sport": "Boxing",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor G",
-        "bets": 157
+        "competitors": [
+            {
+                "name": "Liu Shiwen",
+                "bets": 1410
+            },
+            {
+                "name": "Nour El Sherbini",
+                "bets": 2437
+            }
+        ]
     },
     {
-        "id": "6ba04231-e5d9-46e9-b1aa-24ec6dbde12c",
-        "sport": "American Football",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor J",
-        "bets": 201
+        "id": "5b728661-687f-45d4-b347-d0a3a7a44e59",
+        "sport": "Kickboxing",
+        "competitors": [
+            {
+                "name": "Carolina Marin",
+                "bets": 7925
+            },
+            {
+                "name": "Roger Federer",
+                "bets": 7824
+            }
+        ]
     },
     {
-        "id": "0e147786-e5bc-4ded-b3a3-3ed6a34ee446",
+        "id": "78fa92d1-95e0-4a86-8dfb-c66e39db62fd",
+        "sport": "Fencing",
+        "competitors": [
+            {
+                "name": "Deontay Wilder",
+                "bets": 9256
+            },
+            {
+                "name": "Canelo Alvarez",
+                "bets": 4270
+            }
+        ]
+    },
+    {
+        "id": "485b1bde-acf8-4f94-bb99-f2ebd44eb677",
+        "sport": "Judo",
+        "competitors": [
+            {
+                "name": "Magnus Carlsen",
+                "bets": 8002
+            },
+            {
+                "name": "Ali Farag",
+                "bets": 4386
+            }
+        ]
+    },
+    {
+        "id": "5ec5e03f-09c7-4819-a236-5e3182cfb127",
+        "sport": "Taekwondo",
+        "competitors": [
+            {
+                "name": "Magnus Carlsen",
+                "bets": 3850
+            },
+            {
+                "name": "Simona Halep",
+                "bets": 141
+            }
+        ]
+    },
+    {
+        "id": "fd4c65e7-8f79-4650-a938-752783541b4f",
+        "sport": "Freestyle Wrestling",
+        "competitors": [
+            {
+                "name": "Magnus Carlsen",
+                "bets": 4124
+            },
+            {
+                "name": "Xu Xin",
+                "bets": 6127
+            }
+        ]
+    },
+    {
+        "id": "e36aecab-6904-47ff-99d4-1d4c404e59fc",
+        "sport": "Greco-Roman Wrestling",
+        "competitors": [
+            {
+                "name": "Naomi Osaka",
+                "bets": 2222
+            },
+            {
+                "name": "Rafael Nadal",
+                "bets": 6816
+            }
+        ]
+    },
+    {
+        "id": "bcc9c823-943d-4a3f-b4c9-c144ebd1421e",
+        "sport": "Chess",
+        "competitors": [
+            {
+                "name": "Roger Federer",
+                "bets": 6959
+            },
+            {
+                "name": "Denis Cyplenkov",
+                "bets": 4687
+            }
+        ]
+    },
+    {
+        "id": "a196d0a0-c7f2-41ff-932e-03df9ef9f542",
+        "sport": "Billiards",
+        "competitors": [
+            {
+                "name": "Viktor Axelsen",
+                "bets": 3431
+            },
+            {
+                "name": "Simona Halep",
+                "bets": 8618
+            }
+        ]
+    },
+    {
+        "id": "6a207fcc-db96-4afa-9ffc-77b0300f660a",
+        "sport": "Ping Pong (1v1 Volleyball)",
+        "competitors": [
+            {
+                "name": "Serena Williams",
+                "bets": 7489
+            },
+            {
+                "name": "Novak Djokovic",
+                "bets": 1278
+            }
+        ]
+    },
+    {
+        "id": "6d1b96ea-0428-441e-8c2e-3bf5331239c7",
+        "sport": "Snooker",
+        "competitors": [
+            {
+                "name": "Novak Djokovic",
+                "bets": 9813
+            },
+            {
+                "name": "Simona Halep",
+                "bets": 1650
+            }
+        ]
+    },
+    {
+        "id": "12ccdc7d-fd2c-4b60-9922-b63ecafbff36",
+        "sport": "Golf (Match Play)",
+        "competitors": [
+            {
+                "name": "Canelo Alvarez",
+                "bets": 2832
+            },
+            {
+                "name": "Team USA",
+                "bets": 7525
+            }
+        ]
+    },
+    {
+        "id": "04747b19-9920-4636-9756-02682a090ccb",
+        "sport": "Arm Wrestling",
+        "competitors": [
+            {
+                "name": "Magnus Carlsen",
+                "bets": 7300
+            },
+            {
+                "name": "Simona Halep",
+                "bets": 7295
+            }
+        ]
+    },
+    {
+        "id": "b78ef5f6-930b-48dd-8cad-49697e164d52",
+        "sport": "Tennis",
+        "competitors": [
+            {
+                "name": "Ding Ning",
+                "bets": 3965
+            },
+            {
+                "name": "Canelo Alvarez",
+                "bets": 3146
+            }
+        ]
+    },
+    {
+        "id": "ce5d33a7-2a52-4804-9457-df71c0eb2fda",
         "sport": "Table Tennis",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor J",
-        "bets": 42
+        "competitors": [
+            {
+                "name": "Novak Djokovic",
+                "bets": 8823
+            },
+            {
+                "name": "Ian Nepomniachtchi",
+                "bets": 4404
+            }
+        ]
     },
     {
-        "id": "5e322666-0fc5-4141-a399-5f66d9553ff6",
-        "sport": "Cricket",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor I",
-        "bets": 40
+        "id": "0a0a0c24-8386-4e7b-a1c0-986f4140af8a",
+        "sport": "Badminton",
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 788
+            },
+            {
+                "name": "Naomi Osaka",
+                "bets": 5815
+            }
+        ]
     },
     {
-        "id": "c9ea1edf-4532-4015-84e0-f3dc037f940e",
+        "id": "d2bb9720-a526-4ab3-9289-39838eec18fd",
+        "sport": "Squash",
+        "competitors": [
+            {
+                "name": "Naomi Osaka",
+                "bets": 4512
+            },
+            {
+                "name": "Rafael Nadal",
+                "bets": 7064
+            }
+        ]
+    },
+    {
+        "id": "bcac89a3-baac-4004-9ce1-8ea455cec6e5",
+        "sport": "Boxing",
+        "competitors": [
+            {
+                "name": "Simona Halep",
+                "bets": 9432
+            },
+            {
+                "name": "Anthony Joshua",
+                "bets": 755
+            }
+        ]
+    },
+    {
+        "id": "e4d357df-554b-4b9a-b8e3-7450b514c169",
+        "sport": "Kickboxing",
+        "competitors": [
+            {
+                "name": "Xu Xin",
+                "bets": 7461
+            },
+            {
+                "name": "Raneem El Welily",
+                "bets": 6713
+            }
+        ]
+    },
+    {
+        "id": "fa8649f5-61b4-4893-a586-2f0828ff73ed",
+        "sport": "Fencing",
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 1670
+            },
+            {
+                "name": "Ali Farag",
+                "bets": 4059
+            }
+        ]
+    },
+    {
+        "id": "bd528215-6961-4c32-8839-7b49d196165d",
+        "sport": "Judo",
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 1372
+            },
+            {
+                "name": "Simona Halep",
+                "bets": 7832
+            }
+        ]
+    },
+    {
+        "id": "d8e2314d-a964-4b52-9d28-f54f1f0d13da",
+        "sport": "Taekwondo",
+        "competitors": [
+            {
+                "name": "Raneem El Welily",
+                "bets": 3734
+            },
+            {
+                "name": "Ali Farag",
+                "bets": 1498
+            }
+        ]
+    },
+    {
+        "id": "b01ee946-c781-4a8c-bfdd-41d914fea9bf",
+        "sport": "Freestyle Wrestling",
+        "competitors": [
+            {
+                "name": "Fabiano Caruana",
+                "bets": 3944
+            },
+            {
+                "name": "Ma Long",
+                "bets": 4610
+            }
+        ]
+    },
+    {
+        "id": "ea82646d-3d58-4adf-8569-f3d211abc412",
+        "sport": "Greco-Roman Wrestling",
+        "competitors": [
+            {
+                "name": "Xu Xin",
+                "bets": 2627
+            },
+            {
+                "name": "Denis Cyplenkov",
+                "bets": 9600
+            }
+        ]
+    },
+    {
+        "id": "8f56457b-fd53-4a41-9cd2-762723299b31",
+        "sport": "Chess",
+        "competitors": [
+            {
+                "name": "Viktor Axelsen",
+                "bets": 1656
+            },
+            {
+                "name": "Kento Momota",
+                "bets": 3587
+            }
+        ]
+    },
+    {
+        "id": "32440f10-29f7-4d73-8e08-6e786c82e824",
+        "sport": "Billiards",
+        "competitors": [
+            {
+                "name": "Novak Djokovic",
+                "bets": 1447
+            },
+            {
+                "name": "Team Europe",
+                "bets": 7788
+            }
+        ]
+    },
+    {
+        "id": "54eaa0b7-9c33-44eb-a89e-05154ea77b88",
+        "sport": "Ping Pong (1v1 Volleyball)",
+        "competitors": [
+            {
+                "name": "Magnus Carlsen",
+                "bets": 2225
+            },
+            {
+                "name": "Fabiano Caruana",
+                "bets": 5848
+            }
+        ]
+    },
+    {
+        "id": "b31a189e-5fce-432f-ae3f-63190f1741c4",
+        "sport": "Snooker",
+        "competitors": [
+            {
+                "name": "Ian Nepomniachtchi",
+                "bets": 9523
+            },
+            {
+                "name": "Deontay Wilder",
+                "bets": 2649
+            }
+        ]
+    },
+    {
+        "id": "7262d464-d44d-4f23-8d4a-1d7d4a57fd8a",
+        "sport": "Golf (Match Play)",
+        "competitors": [
+            {
+                "name": "Team Europe",
+                "bets": 6560
+            },
+            {
+                "name": "Ian Nepomniachtchi",
+                "bets": 2316
+            }
+        ]
+    },
+    {
+        "id": "f6130e5c-0a52-44cb-bd95-a78c7a52a17e",
+        "sport": "Arm Wrestling",
+        "competitors": [
+            {
+                "name": "Team USA",
+                "bets": 9917
+            },
+            {
+                "name": "Hikaru Nakamura",
+                "bets": 5324
+            }
+        ]
+    },
+    {
+        "id": "37c15cde-e834-40b5-a097-1706367c4abe",
+        "sport": "Tennis",
+        "competitors": [
+            {
+                "name": "Canelo Alvarez",
+                "bets": 5894
+            },
+            {
+                "name": "Team USA",
+                "bets": 8047
+            }
+        ]
+    },
+    {
+        "id": "ea230641-199d-41c3-b3ed-62ea0e418128",
         "sport": "Table Tennis",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 253
+        "competitors": [
+            {
+                "name": "Team Europe",
+                "bets": 1907
+            },
+            {
+                "name": "Novak Djokovic",
+                "bets": 7906
+            }
+        ]
     },
     {
-        "id": "0088149c-f5c3-4f73-9189-835954ecfe54",
-        "sport": "MMA",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor G",
-        "bets": 162
-    },
-    {
-        "id": "6fd6c5cb-8390-48c0-9cf9-6559994f43d4",
-        "sport": "American Football",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 39
-    },
-    {
-        "id": "e7f6f71a-80af-4909-bb9f-4304b5146cf5",
-        "sport": "Baseball",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor I",
-        "bets": 120
-    },
-    {
-        "id": "c2199d04-e871-44fd-bc15-71c323b581d7",
-        "sport": "Soccer",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor H",
-        "bets": 156
-    },
-    {
-        "id": "b6207bcd-36bf-408f-a6a1-c46711838ce9",
-        "sport": "Soccer",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor G",
-        "bets": 90
-    },
-    {
-        "id": "ca3f3aac-72ac-49ef-8808-afaa49215204",
-        "sport": "Volleyball",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor G",
-        "bets": 111
-    },
-    {
-        "id": "647f5d06-f8f4-490b-8346-44d6308543ee",
-        "sport": "Golf",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 96
-    },
-    {
-        "id": "27919c39-a96c-440f-bb83-1d0396a85e9d",
-        "sport": "Surfing",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor H",
-        "bets": 198
-    },
-    {
-        "id": "922088ac-7e92-4594-9c87-03ec09484bd7",
+        "id": "adb3837e-b1b4-4d4d-9375-f34d3637f2ca",
         "sport": "Badminton",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor F",
-        "bets": 215
+        "competitors": [
+            {
+                "name": "Ma Long",
+                "bets": 7016
+            },
+            {
+                "name": "Team USA",
+                "bets": 6723
+            }
+        ]
     },
     {
-        "id": "4d00cace-b7c9-4696-94f1-9861ca676522",
-        "sport": "Baseball",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor H",
-        "bets": 105
+        "id": "1cf669dc-ad65-4a33-b45b-1b68d5b7ec28",
+        "sport": "Squash",
+        "competitors": [
+            {
+                "name": "Tyson Fury",
+                "bets": 2373
+            },
+            {
+                "name": "Anthony Joshua",
+                "bets": 3614
+            }
+        ]
     },
     {
-        "id": "6522a858-aaab-4f3a-bc1a-6709aa58d01c",
-        "sport": "Cycling",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor I",
-        "bets": 75
-    },
-    {
-        "id": "8682bd6b-e51f-4e72-940f-a4bfd7017487",
-        "sport": "American Football",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor H",
-        "bets": 121
-    },
-    {
-        "id": "9a2c15d7-f648-4e44-b61b-fd8417856811",
-        "sport": "Skiing",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 23
-    },
-    {
-        "id": "71068f50-748c-4cd8-bc54-aee7f09ab8a1",
-        "sport": "Skiing",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor F",
-        "bets": 134
-    },
-    {
-        "id": "4c57d2cb-d4d4-4e09-ad85-5970d44c9a67",
-        "sport": "MMA",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor F",
-        "bets": 21
-    },
-    {
-        "id": "99aa558c-99c2-4d6a-9f3a-9ec67a40a715",
-        "sport": "Baseball",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor G",
-        "bets": 188
-    },
-    {
-        "id": "094d629b-1101-43cb-a3b6-b1cb0533ce2b",
-        "sport": "Basketball",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor F",
-        "bets": 241
-    },
-    {
-        "id": "17c5e777-c68f-4bfa-84ea-3b54daa3050d",
+        "id": "1d83fcd8-e8f9-4de0-b409-8ba73e6f6a99",
         "sport": "Boxing",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor G",
-        "bets": 192
+        "competitors": [
+            {
+                "name": "Ian Nepomniachtchi",
+                "bets": 9212
+            },
+            {
+                "name": "Viktor Axelsen",
+                "bets": 5264
+            }
+        ]
     },
     {
-        "id": "9ee3ed9b-df90-442b-a8f7-3896c9233ed1",
-        "sport": "Baseball",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor J",
-        "bets": 298
+        "id": "f569e21d-6757-475d-a051-fc05b09a8131",
+        "sport": "Kickboxing",
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 1923
+            },
+            {
+                "name": "Naomi Osaka",
+                "bets": 2637
+            }
+        ]
     },
     {
-        "id": "2a389a63-d0cc-4d31-a7c7-dbde952e7528",
-        "sport": "Skiing",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor G",
-        "bets": 139
+        "id": "fd64d793-9934-4b79-9d52-c76b78b6f5c6",
+        "sport": "Fencing",
+        "competitors": [
+            {
+                "name": "Simona Halep",
+                "bets": 700
+            },
+            {
+                "name": "Raneem El Welily",
+                "bets": 1064
+            }
+        ]
     },
     {
-        "id": "ba2be025-125b-4279-89df-93585d57a0d2",
-        "sport": "Soccer",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 197
+        "id": "f0acc62f-2c26-496e-8ca0-97de505492ef",
+        "sport": "Judo",
+        "competitors": [
+            {
+                "name": "Roger Federer",
+                "bets": 757
+            },
+            {
+                "name": "Anthony Joshua",
+                "bets": 1734
+            }
+        ]
     },
     {
-        "id": "01fc5dcc-babe-449a-bb48-0d065b179bb9",
-        "sport": "Skiing",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 223
+        "id": "45104d57-d1ad-43d8-a3e1-21e760a1db17",
+        "sport": "Taekwondo",
+        "competitors": [
+            {
+                "name": "Ma Long",
+                "bets": 6923
+            },
+            {
+                "name": "Kento Momota",
+                "bets": 7839
+            }
+        ]
     },
     {
-        "id": "211217cb-5175-4ab3-8d1c-f3a98a4866d8",
+        "id": "af6ca349-6209-4d85-9383-d2cbf3e15544",
+        "sport": "Freestyle Wrestling",
+        "competitors": [
+            {
+                "name": "Ding Ning",
+                "bets": 9232
+            },
+            {
+                "name": "Ali Farag",
+                "bets": 2671
+            }
+        ]
+    },
+    {
+        "id": "8732c65a-0a51-4ef3-891b-1cae95b9d090",
+        "sport": "Greco-Roman Wrestling",
+        "competitors": [
+            {
+                "name": "Denis Cyplenkov",
+                "bets": 7438
+            },
+            {
+                "name": "Fabiano Caruana",
+                "bets": 5968
+            }
+        ]
+    },
+    {
+        "id": "3b116ccd-1144-4b37-aff1-e9b4b1218c3d",
+        "sport": "Chess",
+        "competitors": [
+            {
+                "name": "Serena Williams",
+                "bets": 1473
+            },
+            {
+                "name": "Rafael Nadal",
+                "bets": 9812
+            }
+        ]
+    },
+    {
+        "id": "a7f96bfa-a37f-4ecb-9c40-a8a227878e38",
+        "sport": "Billiards",
+        "competitors": [
+            {
+                "name": "Rafael Nadal",
+                "bets": 1334
+            },
+            {
+                "name": "Simona Halep",
+                "bets": 4788
+            }
+        ]
+    },
+    {
+        "id": "5e1aea55-3a58-47ba-af67-292a2db41a8b",
+        "sport": "Ping Pong (1v1 Volleyball)",
+        "competitors": [
+            {
+                "name": "Ma Long",
+                "bets": 3830
+            },
+            {
+                "name": "Anthony Joshua",
+                "bets": 5873
+            }
+        ]
+    },
+    {
+        "id": "3feaaeff-ef91-4c19-84ad-a2e7ca22e6cf",
+        "sport": "Snooker",
+        "competitors": [
+            {
+                "name": "Ma Long",
+                "bets": 9482
+            },
+            {
+                "name": "Viktor Axelsen",
+                "bets": 6527
+            }
+        ]
+    },
+    {
+        "id": "42c5691f-e49d-47bc-b7a1-fef8e4b0532c",
+        "sport": "Golf (Match Play)",
+        "competitors": [
+            {
+                "name": "Carolina Marin",
+                "bets": 2837
+            },
+            {
+                "name": "Viktor Axelsen",
+                "bets": 717
+            }
+        ]
+    },
+    {
+        "id": "ba2dde50-7c68-4b54-b812-643c13e984a2",
+        "sport": "Arm Wrestling",
+        "competitors": [
+            {
+                "name": "Raneem El Welily",
+                "bets": 5421
+            },
+            {
+                "name": "Fabiano Caruana",
+                "bets": 6489
+            }
+        ]
+    },
+    {
+        "id": "d79aa1fc-75d4-4ced-83a5-b707a9ba2a07",
+        "sport": "Tennis",
+        "competitors": [
+            {
+                "name": "Naomi Osaka",
+                "bets": 2154
+            },
+            {
+                "name": "Team USA",
+                "bets": 4281
+            }
+        ]
+    },
+    {
+        "id": "1de71e79-1761-435e-b359-dcf7c0fb33f7",
+        "sport": "Table Tennis",
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 2899
+            },
+            {
+                "name": "Ma Long",
+                "bets": 5201
+            }
+        ]
+    },
+    {
+        "id": "9f731998-eb25-4b01-aff3-41d9491eac7f",
+        "sport": "Badminton",
+        "competitors": [
+            {
+                "name": "Carolina Marin",
+                "bets": 9067
+            },
+            {
+                "name": "Fabiano Caruana",
+                "bets": 3053
+            }
+        ]
+    },
+    {
+        "id": "a2ba0bf3-fdbd-4555-95ec-bcca3bc57ae8",
+        "sport": "Squash",
+        "competitors": [
+            {
+                "name": "Rafael Nadal",
+                "bets": 4628
+            },
+            {
+                "name": "Tyson Fury",
+                "bets": 3358
+            }
+        ]
+    },
+    {
+        "id": "f97ba004-f0cf-4eb4-bf53-152f63e98f5a",
         "sport": "Boxing",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor J",
-        "bets": 129
+        "competitors": [
+            {
+                "name": "Team USA",
+                "bets": 581
+            },
+            {
+                "name": "Ali Farag",
+                "bets": 8582
+            }
+        ]
     },
     {
-        "id": "3732f94d-680e-4608-88a6-b06051597833",
-        "sport": "Swimming",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor H",
-        "bets": 10
+        "id": "f83be6e7-3cb0-4ae2-8473-2b8f32d81ffc",
+        "sport": "Kickboxing",
+        "competitors": [
+            {
+                "name": "Team USA",
+                "bets": 6271
+            },
+            {
+                "name": "Simona Halep",
+                "bets": 4943
+            }
+        ]
     },
     {
-        "id": "157756e0-4477-4aef-8e56-0eea27000e1f",
-        "sport": "Swimming",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor H",
-        "bets": 286
+        "id": "bf210d17-56f1-4356-8af0-80ab1206a3d7",
+        "sport": "Fencing",
+        "competitors": [
+            {
+                "name": "Ding Ning",
+                "bets": 6794
+            },
+            {
+                "name": "Devon Larratt",
+                "bets": 9047
+            }
+        ]
     },
     {
-        "id": "8ebb06ce-5198-4154-9edc-4ce9d6b214a4",
-        "sport": "Basketball",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor I",
-        "bets": 225
+        "id": "9b12f8a5-06e5-46b9-96b4-3a917dde4652",
+        "sport": "Judo",
+        "competitors": [
+            {
+                "name": "Carolina Marin",
+                "bets": 1253
+            },
+            {
+                "name": "Simona Halep",
+                "bets": 3660
+            }
+        ]
     },
     {
-        "id": "c095ff7b-af03-412a-9c4b-aae14f898b8b",
-        "sport": "MMA",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 271
+        "id": "f931b058-b95a-4039-92f0-15ecd4a4396f",
+        "sport": "Taekwondo",
+        "competitors": [
+            {
+                "name": "Ali Farag",
+                "bets": 3387
+            },
+            {
+                "name": "Raneem El Welily",
+                "bets": 2887
+            }
+        ]
     },
     {
-        "id": "5fd16111-3880-4cf3-991a-862e33523da4",
-        "sport": "Formula 1",
-        "competitor1": "Competitor D",
-        "competitor2": "Competitor I",
-        "bets": 281
+        "id": "0c957b20-56e7-4598-83a9-84ce1ef7b086",
+        "sport": "Freestyle Wrestling",
+        "competitors": [
+            {
+                "name": "Canelo Alvarez",
+                "bets": 2392
+            },
+            {
+                "name": "Xu Xin",
+                "bets": 7968
+            }
+        ]
     },
     {
-        "id": "4482dd33-19d3-4d81-a324-6d0dddf5fc8b",
+        "id": "645a62b2-469a-464c-a541-e8263a3b138b",
+        "sport": "Greco-Roman Wrestling",
+        "competitors": [
+            {
+                "name": "Magnus Carlsen",
+                "bets": 9019
+            },
+            {
+                "name": "Ding Ning",
+                "bets": 2408
+            }
+        ]
+    },
+    {
+        "id": "4f487b27-b181-427c-a907-a2a8f652eb0b",
+        "sport": "Chess",
+        "competitors": [
+            {
+                "name": "Roger Federer",
+                "bets": 2332
+            },
+            {
+                "name": "Magnus Carlsen",
+                "bets": 9988
+            }
+        ]
+    },
+    {
+        "id": "cedd7c2d-26d7-4356-8092-70963dd820bc",
+        "sport": "Billiards",
+        "competitors": [
+            {
+                "name": "Team Europe",
+                "bets": 5429
+            },
+            {
+                "name": "Deontay Wilder",
+                "bets": 3898
+            }
+        ]
+    },
+    {
+        "id": "15deae1b-e864-4266-84f7-f7fa67af2ea7",
+        "sport": "Ping Pong (1v1 Volleyball)",
+        "competitors": [
+            {
+                "name": "Xu Xin",
+                "bets": 118
+            },
+            {
+                "name": "Simona Halep",
+                "bets": 9905
+            }
+        ]
+    },
+    {
+        "id": "1d5a703c-bc93-4950-9175-d989d6a04cf8",
+        "sport": "Snooker",
+        "competitors": [
+            {
+                "name": "Team USA",
+                "bets": 807
+            },
+            {
+                "name": "Xu Xin",
+                "bets": 5346
+            }
+        ]
+    },
+    {
+        "id": "3a9022a0-a342-4152-afe6-c597b07671ad",
+        "sport": "Golf (Match Play)",
+        "competitors": [
+            {
+                "name": "Fabiano Caruana",
+                "bets": 9445
+            },
+            {
+                "name": "Ma Long",
+                "bets": 815
+            }
+        ]
+    },
+    {
+        "id": "83baf89c-c210-44bc-b54c-bf51117ec666",
+        "sport": "Arm Wrestling",
+        "competitors": [
+            {
+                "name": "Novak Djokovic",
+                "bets": 4069
+            },
+            {
+                "name": "Anthony Joshua",
+                "bets": 6480
+            }
+        ]
+    },
+    {
+        "id": "27173cb3-49a6-4fd7-84f3-bf0da2dc7947",
+        "sport": "Tennis",
+        "competitors": [
+            {
+                "name": "Tyson Fury",
+                "bets": 9450
+            },
+            {
+                "name": "Rafael Nadal",
+                "bets": 2809
+            }
+        ]
+    },
+    {
+        "id": "e47916c0-159d-4298-8866-75160f65aed2",
+        "sport": "Table Tennis",
+        "competitors": [
+            {
+                "name": "Rafael Nadal",
+                "bets": 5433
+            },
+            {
+                "name": "Kento Momota",
+                "bets": 8357
+            }
+        ]
+    },
+    {
+        "id": "a9dc23a2-eb4a-4901-a918-da70ac1850b7",
         "sport": "Badminton",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 196
+        "competitors": [
+            {
+                "name": "Roger Federer",
+                "bets": 5028
+            },
+            {
+                "name": "Naomi Osaka",
+                "bets": 1713
+            }
+        ]
     },
     {
-        "id": "4f281dd2-41eb-49b4-8ffe-f4a8ae0c1e73",
+        "id": "f6c7285b-017f-4008-8cff-7602be41a39d",
+        "sport": "Squash",
+        "competitors": [
+            {
+                "name": "Team USA",
+                "bets": 6101
+            },
+            {
+                "name": "Denis Cyplenkov",
+                "bets": 6798
+            }
+        ]
+    },
+    {
+        "id": "bf2b55eb-3d40-46ad-8d83-5201c65b4b43",
+        "sport": "Boxing",
+        "competitors": [
+            {
+                "name": "Ma Long",
+                "bets": 1101
+            },
+            {
+                "name": "Ma Long",
+                "bets": 8140
+            }
+        ]
+    },
+    {
+        "id": "e1290f63-8fff-4138-a096-889b9df9cd4e",
+        "sport": "Kickboxing",
+        "competitors": [
+            {
+                "name": "Team USA",
+                "bets": 8062
+            },
+            {
+                "name": "Xu Xin",
+                "bets": 4318
+            }
+        ]
+    },
+    {
+        "id": "b9369a50-aa66-4be8-8e5c-d2d1443d1316",
+        "sport": "Fencing",
+        "competitors": [
+            {
+                "name": "Raneem El Welily",
+                "bets": 4655
+            },
+            {
+                "name": "Canelo Alvarez",
+                "bets": 7267
+            }
+        ]
+    },
+    {
+        "id": "f4f5c9a2-dad8-4656-8d27-e09ad44c3f1b",
+        "sport": "Judo",
+        "competitors": [
+            {
+                "name": "Ma Long",
+                "bets": 9088
+            },
+            {
+                "name": "Kento Momota",
+                "bets": 4688
+            }
+        ]
+    },
+    {
+        "id": "7bd7b6de-2130-4c7a-b44c-345ab717b9ff",
+        "sport": "Taekwondo",
+        "competitors": [
+            {
+                "name": "Simona Halep",
+                "bets": 4886
+            },
+            {
+                "name": "PV Sindhu",
+                "bets": 6987
+            }
+        ]
+    },
+    {
+        "id": "11985944-133b-44d9-91d9-0cb52040ebdb",
+        "sport": "Freestyle Wrestling",
+        "competitors": [
+            {
+                "name": "PV Sindhu",
+                "bets": 6449
+            },
+            {
+                "name": "Kento Momota",
+                "bets": 3630
+            }
+        ]
+    },
+    {
+        "id": "9f484017-14c0-4a70-81ee-02085f3afe31",
+        "sport": "Greco-Roman Wrestling",
+        "competitors": [
+            {
+                "name": "Anthony Joshua",
+                "bets": 3212
+            },
+            {
+                "name": "Novak Djokovic",
+                "bets": 9177
+            }
+        ]
+    },
+    {
+        "id": "71bde60e-9fc7-4823-b9ae-4076fde8c46c",
+        "sport": "Chess",
+        "competitors": [
+            {
+                "name": "Mohamed El Shorbagy",
+                "bets": 5922
+            },
+            {
+                "name": "Viktor Axelsen",
+                "bets": 7727
+            }
+        ]
+    },
+    {
+        "id": "8531218a-39e8-454c-bb4c-4851a0ae3f1b",
+        "sport": "Billiards",
+        "competitors": [
+            {
+                "name": "Magnus Carlsen",
+                "bets": 8423
+            },
+            {
+                "name": "Xu Xin",
+                "bets": 4642
+            }
+        ]
+    },
+    {
+        "id": "b4286b46-84c9-43bf-a06e-4813f6008fb6",
+        "sport": "Ping Pong (1v1 Volleyball)",
+        "competitors": [
+            {
+                "name": "Ma Long",
+                "bets": 8940
+            },
+            {
+                "name": "Carolina Marin",
+                "bets": 1987
+            }
+        ]
+    },
+    {
+        "id": "876a50d1-7a12-4252-8468-51681668299a",
+        "sport": "Snooker",
+        "competitors": [
+            {
+                "name": "Novak Djokovic",
+                "bets": 2753
+            },
+            {
+                "name": "Magnus Carlsen",
+                "bets": 2200
+            }
+        ]
+    },
+    {
+        "id": "54fb3b45-f0e0-40b9-b73c-3a65376a93a3",
+        "sport": "Golf (Match Play)",
+        "competitors": [
+            {
+                "name": "PV Sindhu",
+                "bets": 187
+            },
+            {
+                "name": "Magnus Carlsen",
+                "bets": 1996
+            }
+        ]
+    },
+    {
+        "id": "d2460897-7b47-4247-a76d-435521c27a3f",
+        "sport": "Arm Wrestling",
+        "competitors": [
+            {
+                "name": "Tyson Fury",
+                "bets": 4249
+            },
+            {
+                "name": "Xu Xin",
+                "bets": 8523
+            }
+        ]
+    },
+    {
+        "id": "0001e76a-858f-4f7e-84d3-67efa1ade665",
+        "sport": "Tennis",
+        "competitors": [
+            {
+                "name": "Canelo Alvarez",
+                "bets": 6380
+            },
+            {
+                "name": "Magnus Carlsen",
+                "bets": 6791
+            }
+        ]
+    },
+    {
+        "id": "8c967ba9-643e-45c5-992d-bdbfa22f2ad1",
+        "sport": "Table Tennis",
+        "competitors": [
+            {
+                "name": "Denis Cyplenkov",
+                "bets": 7611
+            },
+            {
+                "name": "PV Sindhu",
+                "bets": 3486
+            }
+        ]
+    },
+    {
+        "id": "3135c5be-f271-41cf-bc14-96cab1da25dc",
         "sport": "Badminton",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 137
+        "competitors": [
+            {
+                "name": "Ma Long",
+                "bets": 7768
+            },
+            {
+                "name": "Ma Long",
+                "bets": 9795
+            }
+        ]
     },
     {
-        "id": "65e64703-9180-4b49-9659-4c8317853096",
-        "sport": "Cycling",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor G",
-        "bets": 243
+        "id": "1a194735-145a-4b84-88d9-86ba3f115ee9",
+        "sport": "Squash",
+        "competitors": [
+            {
+                "name": "Mohamed El Shorbagy",
+                "bets": 3702
+            },
+            {
+                "name": "Ding Ning",
+                "bets": 3390
+            }
+        ]
     },
     {
-        "id": "82b28e70-7969-4691-947d-1a3aeabbf298",
-        "sport": "Volleyball",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 251
+        "id": "c1d918cd-256a-493b-a8b8-bf0647c6a10a",
+        "sport": "Boxing",
+        "competitors": [
+            {
+                "name": "Naomi Osaka",
+                "bets": 3073
+            },
+            {
+                "name": "Ma Long",
+                "bets": 9115
+            }
+        ]
     },
     {
-        "id": "475cf2b4-4f82-46de-b024-76d941272f9e",
-        "sport": "Cycling",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor H",
-        "bets": 299
+        "id": "3ac69925-36fe-4581-ad8a-6ce53dc8e9dc",
+        "sport": "Kickboxing",
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 8240
+            },
+            {
+                "name": "Rafael Nadal",
+                "bets": 6711
+            }
+        ]
     },
     {
-        "id": "a78d0c09-d9b7-44fc-a52b-86aeeb6bb9f1",
-        "sport": "Volleyball",
-        "competitor1": "Competitor C",
-        "competitor2": "Competitor F",
-        "bets": 110
+        "id": "401e8282-582d-4a16-9fdd-2fa65ce82680",
+        "sport": "Fencing",
+        "competitors": [
+            {
+                "name": "Ding Ning",
+                "bets": 1581
+            },
+            {
+                "name": "Naomi Osaka",
+                "bets": 8719
+            }
+        ]
     },
     {
-        "id": "14a438c2-de72-406a-bcbd-08b5b7671b96",
-        "sport": "Hockey",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor J",
-        "bets": 147
+        "id": "77ee8b69-d033-4651-be9f-a0bef587ee13",
+        "sport": "Judo",
+        "competitors": [
+            {
+                "name": "Fabiano Caruana",
+                "bets": 6923
+            },
+            {
+                "name": "Ma Long",
+                "bets": 9343
+            }
+        ]
     },
     {
-        "id": "88a435d9-9a33-438d-b816-4f6c327c5413",
-        "sport": "Surfing",
-        "competitor1": "Competitor B",
-        "competitor2": "Competitor F",
-        "bets": 158
+        "id": "88af41a1-89bf-4e03-8bfc-67055c57f8b5",
+        "sport": "Taekwondo",
+        "competitors": [
+            {
+                "name": "Carolina Marin",
+                "bets": 7482
+            },
+            {
+                "name": "Kento Momota",
+                "bets": 2016
+            }
+        ]
     },
     {
-        "id": "1ea0414b-0dd3-4c50-9b0e-121aaf14978c",
-        "sport": "Baseball",
-        "competitor1": "Competitor A",
-        "competitor2": "Competitor F",
-        "bets": 119
+        "id": "509d41c9-04d9-4be8-af40-adc3b0682258",
+        "sport": "Freestyle Wrestling",
+        "competitors": [
+            {
+                "name": "Hikaru Nakamura",
+                "bets": 5172
+            },
+            {
+                "name": "Kento Momota",
+                "bets": 7557
+            }
+        ]
     },
     {
-        "id": "f466a189-454c-42a4-bea1-8801fc0f7df2",
-        "sport": "MMA",
-        "competitor1": "Competitor E",
-        "competitor2": "Competitor I",
-        "bets": 98
+        "id": "f0cb17f2-fc4f-4742-983c-1ab1874f365b",
+        "sport": "Greco-Roman Wrestling",
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 6010
+            },
+            {
+                "name": "Hikaru Nakamura",
+                "bets": 6038
+            }
+        ]
+    },
+    {
+        "id": "3efa2f04-918a-4ef8-9321-80b6b0cb13f4",
+        "sport": "Chess",
+        "competitors": [
+            {
+                "name": "Nour El Sherbini",
+                "bets": 4237
+            },
+            {
+                "name": "Xu Xin",
+                "bets": 2370
+            }
+        ]
+    },
+    {
+        "id": "77304517-7294-46df-9bf8-323649fd031c",
+        "sport": "Billiards",
+        "competitors": [
+            {
+                "name": "Viktor Axelsen",
+                "bets": 3482
+            },
+            {
+                "name": "Ian Nepomniachtchi",
+                "bets": 9824
+            }
+        ]
+    },
+    {
+        "id": "f9631015-1642-4ade-91d9-a57d363f86fe",
+        "sport": "Ping Pong (1v1 Volleyball)",
+        "competitors": [
+            {
+                "name": "Viktor Axelsen",
+                "bets": 6605
+            },
+            {
+                "name": "Ma Long",
+                "bets": 5621
+            }
+        ]
+    },
+    {
+        "id": "a28394c0-5216-408b-83c1-f7121d0647e2",
+        "sport": "Snooker",
+        "competitors": [
+            {
+                "name": "Tyson Fury",
+                "bets": 9451
+            },
+            {
+                "name": "Denis Cyplenkov",
+                "bets": 7844
+            }
+        ]
+    },
+    {
+        "id": "dceeaf83-87ee-4418-863c-1461af463c2c",
+        "sport": "Golf (Match Play)",
+        "competitors": [
+            {
+                "name": "Viktor Axelsen",
+                "bets": 8806
+            },
+            {
+                "name": "Carolina Marin",
+                "bets": 6237
+            }
+        ]
+    },
+    {
+        "id": "cf2a881f-4aaa-4f10-9d2a-c1137a51cc05",
+        "sport": "Arm Wrestling",
+        "competitors": [
+            {
+                "name": "Liu Shiwen",
+                "bets": 121
+            },
+            {
+                "name": "Devon Larratt",
+                "bets": 2874
+            }
+        ]
     }
 ]

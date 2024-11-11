@@ -22,6 +22,11 @@ export const Title = styled.div`
     color: ${colors.gray['900']};
     ${font(FontSize.xl, FontWeight.semibold, LineHeight.leadingTight)}
 `
+export const Competitor = styled.div`
+    width: 100%;
+    color: ${colors.gray['900']};
+    ${font(FontSize.lg, FontWeight.semibold, LineHeight.leadingTight)}
+`
 
 export const Bets = styled.div`
     width: 100%;

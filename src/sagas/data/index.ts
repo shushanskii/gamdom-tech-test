@@ -1,7 +1,7 @@
-import { takeEvery, put } from 'redux-saga/effects'
+import { all, takeEvery, put } from 'redux-saga/effects'
 
 // Store
-import { fill, Item } from 'store/data'
+import { fill, Competition } from 'store/data'
 
 export enum ActionTypes {
   FETCH = 'FETCH',
@@ -14,9 +14,10 @@ export const Actions = {
 interface SportsData {
   id: string
   sport: string
-  competitor1: string
-  competitor2: string
-  bets: number
+  competitors: {
+    name: string
+    bets: number
+  }[]
 }
 
 function* fetchData() {
@@ -28,7 +29,7 @@ function* fetchData() {
 
   const json: SportsData[] = yield response.json()
 
-  const data: Record<string, Item> = json.reduce<Record<string, Item>>(
+  const data: Record<string, Competition> = json.reduce<Record<string, Competition>>(
     (result, {id, ...rest}) => {
       result[id] = rest
       return result
@@ -42,7 +43,9 @@ function* fetchData() {
 }
 
 function* data() {
-  yield takeEvery(ActionTypes.FETCH, fetchData)
+  yield all([
+    takeEvery(ActionTypes.FETCH, fetchData)
+  ])
 }
 
 export default data
